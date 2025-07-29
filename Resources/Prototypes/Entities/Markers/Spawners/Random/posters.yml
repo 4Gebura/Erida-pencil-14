@@ -95,7 +95,19 @@
       - PosterContrabandExoAcid
       - PosterContrabandExoRun
       - PosterContrabandExoChomp
-    chance: 1
+      - PosterContrabandInteQRecruitment # Orion-Start
+      - PosterContrabandInteQWorkship
+      - PosterContrabandInteQWorkship2
+      - PosterContrabandInteQ
+      - PosterContrabandInteQNoSex
+      - PosterContrabandInteQVulp
+      - PosterContrabandInteQJulie # Orion-End
+    chance: 0.99 # Orion-Edit | 1 > 0.99
+    # Orion-Start
+    rarePrototypes:
+      - FlagInteQ
+    rareChance: 0.01
+    # Orion-End
 
 - type: entity
   parent: MarkerBase

@@ -1,6 +1,10 @@
 - type: accessGroup
   id: AllAccess
   tags:
+  # Europa-Start-Access
+  - InteQVanguardLeader
+  - InteQVanguard
+  # Europa-End-Access
   - EmergencyShuttleRepealAll
   - Captain
   - HeadOfPersonnel
