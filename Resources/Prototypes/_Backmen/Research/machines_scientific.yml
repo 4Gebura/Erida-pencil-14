@@ -1,4 +1,17 @@
 - type: technology
+  id: ComprehensiveResearchDevelopmentSystem
+  name: research-technology-Comprehensive-development-system-research-machines
+  icon:
+    sprite: Structures/Machines/server.rsi
+    state: server-on
+  discipline: Scientific
+  tier: 1
+  cost: 5000
+  recipeUnlocks:
+  - ResearchAndDevelopmentServerMachineCircuitboard
+  position: 2,0
+
+- type: technology
   id: AnomalousResearchMachines
   name: research-technology-anomalous-research-machines
   icon:
@@ -11,8 +24,9 @@
   - APECircuitboard
   - AnomalyVesselCircuitboard
   technologyPrerequisites:
+  - ComprehensiveResearchDevelopmentSystem
   - AnomalousResearch
-  position: 4,0
+  position: 1,0
 
 - type: technology
   id: AnomalyResearchAdvancedMachines
@@ -27,10 +41,9 @@
   - AnomalySynchronizerCircuitboard
   - AnomalyVesselExperimentalCircuitboard
   technologyPrerequisites:
-  - AnomalousResearch
-  - AnomalousResearchAdvanced
   - AnomalousResearchMachines
-  position: 4,-1
+  - AnomalousResearchAdvanced
+  position: 0,0
 
 - type: technology
   id: XenoArcheologyMachines
@@ -44,7 +57,10 @@
   recipeUnlocks:
   - AnalysisComputerCircuitboard
   - ArtifactAnalyzerMachineCircuitboard
-  position: 5,0
+  technologyPrerequisites:
+  - ComprehensiveResearchDevelopmentSystem
+  - XenoarchaeologyResearch
+  position: 3,0
 
 - type: technology
   id: AlternativeResearchMachines
@@ -57,7 +73,7 @@
   cost: 5000
   recipeUnlocks:
   - TechDiskComputerCircuitboard
-  position: 5,1
+  position: 4,1
 
 - type: technology
   id: AbnormalArtifactManipulationMachines
@@ -71,5 +87,5 @@
   recipeUnlocks:
   - ArtifactCrusherMachineCircuitboard
   technologyPrerequisites:
-  - AnomalyResearchAdvancedMachines
-  position: 3,-1
+  - XenoArcheologyMachines
+  position: 4,0

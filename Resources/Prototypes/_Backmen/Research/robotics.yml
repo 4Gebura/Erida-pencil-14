@@ -194,8 +194,7 @@
   recipeUnlocks:
   - BorgModuleArtifact
   technologyPrerequisites:
-  - AnomalyModules
-#  - XenoArcheologyMachines
+  - CyborgModules
   position: 6,-4
 
 - type: technology
@@ -210,5 +209,5 @@
   recipeUnlocks:
   - BorgModuleAnomaly
   technologyPrerequisites:
-  - CyborgModules
+  - XenoArcheologyModules
   position: 6,-5

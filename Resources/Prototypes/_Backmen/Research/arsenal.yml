@@ -31,7 +31,7 @@
     state: slug
   discipline: Arsenal
   tier: 1
-  cost: 10000
+  cost: 5000
   recipeUnlocks:
   - BoxLethalshot
   - BoxShotgunSlug
@@ -182,7 +182,6 @@
   recipeUnlocks:
   - WeaponTemperatureGun
   technologyPrerequisites:
-  - CombatLaserConcentrated
   - CombatLaserAdvanced
   position: 0,-4
 
@@ -214,4 +213,4 @@
   - WeaponXrayCannon
   technologyPrerequisites:
   - CombatLaserConcentrated
-  position: -2,-3
+  position: -1,-4
