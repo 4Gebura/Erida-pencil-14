@@ -54,7 +54,6 @@
   tier: 1
   cost: 15000
   recipeUnlocks:
-#   - WeaponPlasmaCutterAdvanced
    - OreBagOfHolding
    - AdvancedMineralScannerEmpty
    - MiningDrillDiamond

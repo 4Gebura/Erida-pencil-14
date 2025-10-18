@@ -6,12 +6,24 @@
     state: icon
   discipline: Scientific
   tier: 1
-  cost: 5000
+  cost: 2500
   recipeUnlocks:
   - AnomalyScanner
   - AnomalyLocator
+  position: 1,1
+
+- type: technology
+  id: XenoarchaeologyResearch
+  name: research-technology-xenoarcheology-research
+  icon:
+    sprite: Objects/Specific/Xenoarchaeology/node_scanner.rsi
+    state: icon
+  discipline: Scientific
+  tier: 1
+  cost: 2500
+  recipeUnlocks:
   - NodeScanner
-  position: 4,1
+  position: 3,1
 
 - type: technology
   id: AnomalousResearchAdvanced
@@ -27,7 +39,7 @@
   - WeaponPistolCHIMP
   technologyPrerequisites:
   - AnomalousResearch
-  position: 4,2
+  position: 0,1
 
 - type: technology
   id: IntegratedHUDs
@@ -42,11 +54,7 @@
    - ClothingEyesHudSecurity
    - ClothingEyesGlassesChemical
    - ClothingEyesHudDiagnostic
-#  technologyPrerequisites: # Because poxyu
-#  - Security
-#  - Chemistry
-#  - Robotics
-  position: 3,2
+  position: 4,2
 
 - type: technology
   id: GravityManipulation
@@ -61,8 +69,9 @@
   - WeaponForceGun
   - WeaponTetherGun
   technologyPrerequisites:
-  - AnomalousResearchAdvanced
-  position: 4,3
+  - MagneticBoots
+  - QuantumLeaping
+  position: 2,2
 
 - type: technology
   id: AnomalyCoreHarnessing
@@ -76,8 +85,8 @@
   recipeUnlocks:
   - WeaponGauntletGorilla
   technologyPrerequisites:
-  - GravityManipulation
-  position: 5,3
+  - AnomalousResearchAdvanced
+  position: 0,3
 
 - type: technology
   id: QuantumLeaping
@@ -91,8 +100,8 @@
   recipeUnlocks:
   - DeviceQuantumSpinInverter
   technologyPrerequisites:
-  - GravityManipulation
-  position: 3,3
+  - AnomalousResearchAdvanced
+  position: 1,2
 
 - type: technology
   id: DeviceDesynchronizerу
@@ -106,9 +115,8 @@
   recipeUnlocks:
   - DeviceDesynchronizer
   technologyPrerequisites:
-  - QuantumLeaping
   - QuantumMagneticBoots
-  position: 2,4
+  position: 4,4
 
 - type: technology
   id: MagneticBoots
@@ -122,7 +130,7 @@
   recipeUnlocks:
   - ClothingShoesBootsMagSci
   - ClothingShoesBootsMoon
-  position: 2,2
+  position: 2,1
 
 - type: technology
   id: QuantumMagneticBoots
@@ -136,10 +144,9 @@
   recipeUnlocks:
   - ClothingShoesBootsSpeed
   technologyPrerequisites:
-  - MagneticBoots
+  - PowercellsAdvanced
   - GravityManipulation
-  - QuantumLeaping
-  position: 2,3
+  position: 2,4
 
 - type: technology
   id: BluespaceStorage
@@ -155,7 +162,7 @@
   - ClothingBackpackSatchelHolding
   - ClothingBackpackDuffelHolding
   technologyPrerequisites:
-  - QuantumLeaping
   - PortableFission
+  - DeviceDesynchronizerу
   - SalvageEquipmentAdvanced
   position: 5,5

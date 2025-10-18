@@ -23,7 +23,7 @@
   recipeUnlocks:
    - PowerCellSmall
    - PowerCellMedium
-  position: 2,1
+  position: 0,5
 
 - type: technology
   id: PowercellsAdvanced
@@ -39,7 +39,7 @@
    - PowerCellHigh
   technologyPrerequisites:
   - Powercells
-  position: 1,1
+  position: 1,5
 
 - type: technology
   id: PortableFission
@@ -54,7 +54,7 @@
    - PowerCellMicroreactor
   technologyPrerequisites:
   - PowercellsAdvanced
-  position: 1,2
+  position: 3,5
 
 - type: technology
   id: EngineeringTools
@@ -87,6 +87,7 @@
   - CableHVStack
   - ClothingHeadHatWelding
   - Igniter
+  - HandLabeler
   position: -2,1
 
 - type: technology

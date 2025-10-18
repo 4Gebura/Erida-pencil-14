@@ -40,6 +40,8 @@
     - Powercells
     - EngineeringTools
     - Lightning
+    - NonlethalAmmunition
+    - ComprehensiveResearchDevelopmentSystem
     # Backmen-Edit-ENDer
   - type: ApcPowerReceiver
     powerLoad: 200

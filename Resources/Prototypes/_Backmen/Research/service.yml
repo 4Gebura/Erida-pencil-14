@@ -86,6 +86,12 @@
   cost: 500
   recipeUnlocks:
    - Bucket
+   - HydroponicsToolMiniHoe
+   - HydroponicsToolHatchet
+   - HydroponicsToolScythe
+   - HydroponicsToolClippers
+   - ClothingBeltPlant
+   - PlantBag
   technologyPrerequisites:
   - ServiceMachines
   position: 3,8
