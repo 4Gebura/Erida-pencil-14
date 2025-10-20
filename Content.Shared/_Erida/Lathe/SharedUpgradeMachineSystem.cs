@@ -26,12 +26,15 @@ public sealed class UpgradeMachineSystem : EntitySystem
 
         if (args.Handled
             || upgradePartComponent == null
-            || wiresComponent == null
-            || !wiresComponent.Open)
+            || wiresComponent == null)
         {
             return;
         }
-
+        if (!wiresComponent.Open)
+        {
+            _popupSystem.PopupEntity(Loc.GetString("construction-step-condition-wire-panel-close"), args.User);
+            return;
+        }
         if (ent.Comp.Storage.Count >= ent.Comp.UpgradeLimit)
         {
             var canBeReplaced = false;
