@@ -101,6 +101,24 @@
   - EngineeringAdvancedMachines
   position: -4,5
 
+# Erida-start
+- type: technology
+  id: EngineeringAdvancedDetails
+  name: research-technology-engineering-advanced-details
+  icon:
+    sprite: Objects/Misc/stock_parts.rsi
+    state: micro_mani
+  discipline: Engineering
+  tier: 2
+  cost: 15000
+  recipeUnlocks:
+  - MicroManipulatorT2
+  - MicroManipulatorT3
+  technologyPrerequisites:
+  - MechanicalCompressionMachines
+  position: -4,6
+# Erida-end
+
 - type: technology
   id: AtmosphericMachines
   name: research-technology-atmospheric-machines
