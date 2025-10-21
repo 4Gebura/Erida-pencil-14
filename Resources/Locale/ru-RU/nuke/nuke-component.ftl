@@ -34,7 +34,7 @@ nuke-user-interface-second-status-cooldown-time = ОЖИДАНИЕ: { $time }
 
 nuke-label-pact = PACT-{ $serial }
 # do you even need this one? It's more funnier to say that
-# the InteQ stole a PACT nuke
+# the InteQ stole a NT nuke
 nuke-label-syndicate = INT-{ $serial }
 # Codes
 nuke-codes-message = [color=red]СОВЕРШЕННО СЕКРЕТНО![/color]

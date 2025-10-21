@@ -162,7 +162,7 @@ ghost-role-information-space-ninja-description = Используйте хитр
 ghost-role-information-paradox-clone-name = Парадоксальный клон
 ghost-role-information-paradox-clone-description = Странная пространственно-временная аномалия телепортировала вас в другую реальность! Теперь вам предстоит найти своего двойника, убить и заменить его.
 ghost-role-information-syndicate-reinforcement-name = Агент Синдиката
-ghost-role-information-syndicate-reinforcement-description = Кому-то нужно подкрепление. Вы первый, кого Синдикат смог найти и послать на помощь.
+ghost-role-information-syndicate-reinforcement-description = Кому-то нужно подкрепление. Вы первый, кого InteQ смог найти и послать на помощь.
 ghost-role-information-syndicate-reinforcement-rules = Вы [color={ role-type-team-antagonist-color }][bold]{ role-type-team-antagonist-name }[/bold][/color], в команде с агентом, который вас призвал.
 ghost-role-information-syndicate-reinforcement-medic-name = Медик Синдиката
 ghost-role-information-syndicate-reinforcement-medic-description = Кому-то нужно подкрепление. Ваша задача — сохранить жизнь вызвавшему вас агенту.
