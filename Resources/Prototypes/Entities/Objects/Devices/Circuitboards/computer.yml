@@ -469,7 +469,7 @@
   - type: Sprite
     state: cpu_inteq
   - type: ComputerBoard
-    prototype: ComputerShuttleSyndie
+    prototype: ComputerShuttleInteQ
 
 - type: entity
   parent: BaseComputerCircuitboard
