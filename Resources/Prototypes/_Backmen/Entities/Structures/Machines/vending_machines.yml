@@ -1,4 +1,30 @@
 - type: entity
+  name: InteqDrobe
+  description: Where's my hot lizards?
+  parent: VendingMachine
+  id: VendingMachineInteqDrobe
+  suffix: backmen
+  components:
+  - type: VendingMachine
+    pack: InteqDrobeInventory
+    dispenseOnHitChance: 0.01
+    dispenseOnHitThreshold: 50
+    offState: off
+    brokenState: broken
+    normalState: normal-unshaded
+  - type: Sprite
+    sprite: Backmen/Structures/Machines/VendingMachines/inteqdrobe.rsi
+    layers:
+    - state: off
+      map: ["enum.VendingMachineVisualLayers.Base"]
+    - state: normal-unshaded
+      map: ["enum.VendingMachineVisualLayers.BaseUnshaded"]
+      shader: unshaded
+    - state: panel
+      map: ["enum.WiresVisualLayers.MaintenancePanel"]
+  - type: ActivatableUIRequiresPower
+
+- type: entity
   parent: VendingMachine
   id: VendingMachineBoxingDrobe
   suffix: backmen
