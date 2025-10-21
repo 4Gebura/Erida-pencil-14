@@ -1,5 +1,6 @@
 using System.Linq;
 using Content.Server.Backmen.Language.Events;
+using Content.Shared._Erida.Backmen.Language;
 using Content.Shared.Backmen.Language;
 using Content.Shared.Backmen.Language.Components;
 using Content.Shared.Backmen.Language.Systems;
@@ -21,10 +22,37 @@ public sealed partial class LanguageSystem : SharedLanguageSystem
         SubscribeLocalEvent<LanguageSpeakerComponent, ComponentInit>(OnInitLanguageSpeaker);
         SubscribeLocalEvent<UniversalLanguageSpeakerComponent, MapInitEvent>(OnUniversalInit);
         SubscribeLocalEvent<UniversalLanguageSpeakerComponent, ComponentShutdown>(OnUniversalShutdown);
+        SubscribeLocalEvent<LanguageAddComponent, ComponentInit>(OnComponentInit); // Erida
 
         _languageSpeakerQuery = GetEntityQuery<LanguageSpeakerComponent>();
         _universalLanguageSpeakerQuery = GetEntityQuery<UniversalLanguageSpeakerComponent>();
     }
+
+    // Erida-start
+    public void OnComponentInit(Entity<LanguageAddComponent> ent, ref ComponentInit args)
+    {
+        foreach (var language in ent.Comp.SpokenLanguages)
+        {
+            if (ent.Comp.UnderstoodLanguages.Contains(language))
+            {
+                AddLanguage(ent.Owner, language, true, true);
+                ent.Comp.UnderstoodLanguages.Remove(language);
+                ent.Comp.SpokenLanguages.Remove(language);
+            }
+            else
+            {
+                AddLanguage(ent.Owner, language, true, false);
+                ent.Comp.SpokenLanguages.Remove(language);
+            }
+        }
+        foreach (var language in ent.Comp.UnderstoodLanguages)
+        {
+            AddLanguage(ent.Owner, language, false, true);
+        }
+
+        RemComp<LanguageAddComponent>(ent.Owner);
+    }
+    // Erida-end
 
     private void OnUniversalShutdown(EntityUid uid, UniversalLanguageSpeakerComponent component, ComponentShutdown args)
     {
