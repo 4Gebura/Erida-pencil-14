@@ -19,13 +19,6 @@
     sprite: Backmen/Clothing/Hands/inteq_infiltrator.rsi
   - type: Clothing
     sprite: Backmen/Clothing/Hands/inteq_infiltrator.rsi
-  - type: Armor
-    modifiers:
-      coefficients:
-        Blunt: 0.95
-        Slash: 0.95
-        Piercing: 0.95
-        Heat: 0.95
   - type: Thieving
     stripTimeReduction: 1
     stealthy: true
