@@ -665,7 +665,7 @@
   - type: CommunicationsConsole
     title: comms-console-announcement-title-station
   - type: DeviceNetwork
-    deviceNetId: Wireless    
+    deviceNetId: Wireless
     transmitFrequencyId: ShuttleTimer
   - type: ActivatableUI
     key: enum.CommunicationsConsoleUiKey.Key
@@ -688,7 +688,7 @@
 - type: entity
   parent: ComputerComms
   id: SyndicateComputerComms
-  name: syndicate communications computer
+  name: inteq communications computer
   description: A computer capable of remotely hacking into the station's communications systems. Using this to make an announcement will alert the station to your presence.
   components:
   - type: Sprite
@@ -698,16 +698,16 @@
     - map: ["computerLayerKeyboard"]
       state: generic_keyboard
     - map: ["computerLayerScreen"]
-      state: comm_syndie
+      state: comm_inteq
     - map: ["computerLayerKeys"]
-      state: syndie_key
+      state: inteq_key
     - map: [ "enum.WiresVisualLayers.MaintenancePanel" ]
       state: generic_panel_open
   - type: AccessReader
     access: [[ "NuclearOperative" ]]
   - type: CommunicationsConsole
-    title: comms-console-announcement-title-nukie
-    color: "#ff0000"
+    title: comms-console-announcement-title-inteq
+    color: "#f18016"
     canShuttle: false
     global: true #announce to everyone they're about to fuck shit up
     announceSentBy: false # The title already says who they are.
