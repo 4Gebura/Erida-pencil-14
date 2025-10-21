@@ -42,7 +42,7 @@
       - id: WeaponShotgunInteQBulldog
       - id: MagazineShotgun
         amount: 2
-      - id: BoxMagazineShotgun
+      - id: BoxLethalshot
 
 - type: entity
   parent: CaseInteQ
