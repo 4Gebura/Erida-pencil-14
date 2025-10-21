@@ -12,10 +12,10 @@ namespace Content.Shared._Erida.Lathe
         public int UpgradeLimit = 1;
 
         [DataField]
-        public float BaseSpeedModifier = 1;
+        public float BaseSpeedModifier;
 
         [DataField]
-        public float BaseMaterialModifier = 1;
+        public float BaseMaterialModifier;
 
 
         public Container Container = default!;
