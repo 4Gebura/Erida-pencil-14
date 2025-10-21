@@ -434,6 +434,28 @@
             ]
         },
         {
+            "name": "comm_inteq",
+            "directions": 4,
+            "delays": [
+                [
+                    0.1,
+                    0.1
+                ],
+                [
+                    0.1,
+                    0.1
+                ],
+                [
+                    0.1,
+                    0.1
+                ],
+                [
+                    0.1,
+                    0.1
+                ]
+            ]
+        },
+        {
             "name": "comm_wizard",
             "directions": 4,
             "delays": [
@@ -1810,6 +1832,14 @@
         },
         {
             "name": "syndie_key_off",
+            "directions": 4
+        },
+        {
+            "name": "inteq_key",
+            "directions": 4
+        },
+        {
+            "name": "inteq_key_off",
             "directions": 4
         },
         {
