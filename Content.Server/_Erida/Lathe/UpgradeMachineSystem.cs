@@ -12,26 +12,12 @@ public sealed class UpgradeMachineSystem : EntitySystem
     [Dependency] private readonly SharedContainerSystem _container = default!;
     [Dependency] private readonly SharedPopupSystem _popupSystem = default!;
 
-
-
     public override void Initialize()
     {
         base.Initialize();
 
         SubscribeLocalEvent<UpgradeStorageComponent, UpgradeMachineEvent>(OnUpgradeMachineEvent);
         SubscribeLocalEvent<UpgradeStorageComponent, ComponentShutdown>(OnUpgradeStorageShutdown);
-        SubscribeLocalEvent<UpgradeStorageComponent, ComponentInit>(OnUpgradeStorageInit);
-    }
-
-    private void OnUpgradeStorageInit(Entity<UpgradeStorageComponent> ent, ref ComponentInit args)
-    {
-        var lathComponent = CompOrNull<LatheComponent>(ent.Owner);
-
-        if (lathComponent != null)
-        {
-            ent.Comp.BaseMaterialModifier = lathComponent.TimeMultiplier;
-            ent.Comp.BaseSpeedModifier = lathComponent.MaterialUseMultiplier;
-        }
     }
 
     private void OnUpgradeStorageShutdown(Entity<UpgradeStorageComponent> ent, ref ComponentShutdown args)
@@ -45,10 +31,21 @@ public sealed class UpgradeMachineSystem : EntitySystem
 
     private void InsertMachinePart(EntityUid itemUid, Entity<UpgradeStorageComponent> ent)
     {
+        var lathComponent = CompOrNull<LatheComponent>(ent.Owner);
+
+        if (ent.Comp.isFirstUpdate)
+        {
+            if (lathComponent != null)
+            {
+                ent.Comp.BaseSpeedModifier = lathComponent.TimeMultiplier;
+                ent.Comp.BaseMaterialModifier = lathComponent.MaterialUseMultiplier;
+            }
+
+            ent.Comp.isFirstUpdate = false;
+        }
+
         _container.Insert(itemUid, ent.Comp.Container);
         ent.Comp.Storage.Add(itemUid);
-
-        var lathComponent = CompOrNull<LatheComponent>(ent.Owner);
 
         var newSpeedModifier = ent.Comp.BaseSpeedModifier;
         var newMaterialModifier = ent.Comp.BaseMaterialModifier;
