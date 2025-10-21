@@ -142,7 +142,7 @@ language-Elvish-description =
         времён, что делает его важной частью культуры и традиций
         эльфов.
 language-Codespeak-name = Кодовый язык
-language-Codespeak-description = Военные шифры, используемые Синдикатом.
+language-Codespeak-description = Военные шифры, используемые InteQ.
 language-OldFastCodes-name = Старый кодовый язык
 language-OldFastCodes-description =
     Старые военные шифры, использовавшиеся сотни лет назад.

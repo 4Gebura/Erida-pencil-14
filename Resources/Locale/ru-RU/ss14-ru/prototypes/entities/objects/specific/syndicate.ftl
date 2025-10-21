@@ -13,21 +13,21 @@ ent-Telecrystal10 = { ent-Telecrystal }
     .desc = { ent-Telecrystal.desc }
 ent-BaseUplinkRadio = старое радио
     .desc = Винтажное радио, которое по неясной причине застыло на крайне необычной частоте, со словом «АпЛинк» на лицевой стороне.
-    .suffix = Пустой, аплинк Синдиката
+    .suffix = Пустой, аплинк InteQ
 ent-BaseUplinkRadio20TC = { ent-BaseUplinkRadio }
-    .suffix = 20 ТК, аплинк Синдиката
+    .suffix = 20 ТК, аплинк InteQ
     .desc = { ent-BaseUplinkRadio.desc }
 ent-BaseUplinkRadio25TC = { ent-BaseUplinkRadio }
-    .suffix = 25 ТК, аплинк Синдиката
+    .suffix = 25 ТК, аплинк InteQ
     .desc = { ent-BaseUplinkRadio.desc }
 ent-BaseUplinkRadio40TC = { ent-BaseUplinkRadio }
-    .suffix = 40 ТК, аплинк Синдиката, Ядерный Оперативник
+    .suffix = 40 ТК, аплинк InteQ, Ядерный Оперативник
     .desc = { ent-BaseUplinkRadio.desc }
 ent-BaseUplinkRadio60TC = { ent-BaseUplinkRadio }
-    .suffix = 60 ТК, аплинк Синдиката, Одинокий ядерный оперативник
+    .suffix = 60 ТК, аплинк InteQ, Одинокий ядерный оперативник
     .desc = { ent-BaseUplinkRadio.desc }
 ent-BaseUplinkRadioDebug = { ent-BaseUplinkRadio }
-    .suffix = DEBUG, аплинк синдиката
+    .suffix = DEBUG, аплинк InteQ
     .desc = { ent-BaseUplinkRadio.desc }
 
 # Corvax-HiddenDesc-End
