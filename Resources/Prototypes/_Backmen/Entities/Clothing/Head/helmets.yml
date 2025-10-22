@@ -77,3 +77,15 @@
   - type: Clothing
     sprite: Backmen/Clothing/Head/Helmets/inteq_tombstone.rsi
   - type: FlashImmunity
+
+- type: entity
+  parent: [ClothingHeadHelmetSwat, BaseMinorContraband]
+  id: ClothingHeadHelmetSwatInteQ
+  name: SWAT helmet
+  suffix: InteQ
+  description: An extremely robust helmet, commonly used by paramilitary forces. It is adorned in a nefarious orange and black stripe pattern.
+  components:
+  - type: Sprite
+    sprite: Backmen/Clothing/Head/Helmets/inteq_swat.rsi
+  - type: Clothing
+    sprite: Backmen/Clothing/Head/Helmets/inteq_swat.rsi
