@@ -1,13 +1,11 @@
 - type: entity
-  name: InteqDrobe
-  description: Where's my hot lizards?
+  name: InteQDrobe
+  description: Wardrobe machine encoded by the InteQ, contains elite outfits for various operations.
   parent: VendingMachine
   id: VendingMachineInteqDrobe
   components:
   - type: VendingMachine
     pack: InteqDrobeInventory
-    dispenseOnHitChance: 0.01
-    dispenseOnHitThreshold: 50
     offState: off
     brokenState: broken
     normalState: normal-unshaded
@@ -22,6 +20,10 @@
     - state: panel
       map: ["enum.WiresVisualLayers.MaintenancePanel"]
   - type: ActivatableUIRequiresPower
+  - type: PointLight
+    radius: 1.5
+    energy: 1.6
+    color: "#FF8C00"
 
 - type: entity
   parent: VendingMachine
