@@ -1,6 +1,6 @@
 - type: entity
-  id: CigaretteInteq
-  suffix: inteq
+  id: CigaretteInteQ
+  suffix: InteQ
   parent: Cigarette
   name: cigarette
   description: A roll of tobacco and nicotine. Smells like whiskey.
@@ -12,7 +12,5 @@
         reagents:
           - ReagentId: Nicotine
             Quantity: 10
-          - ReagentId: Omnizine
-            Quantity: 10
-          - ReagentId: whiskey
+          - ReagentId: Whiskey
             Quantity: 20

@@ -1,2 +1,2 @@
-ent-CigaretteInteq = сигарета
+ent-CigaretteInteQ = сигарета
     .desc = Сигарета с табаком и никотином. Пахнет виски.

@@ -1,35 +1,26 @@
 - type: entity
-  name: inteq cookies
+  name: InteQ cookies
   parent: FoodSnackBase
   id: FoodSnackInteQCookies
-  description: Yummy.
+  description: Cookies with something black.
   components:
   - type: FlavorProfile
     flavors:
-      - fortunecookie
+      - motivating
   - type: Sprite
     sprite: Backmen/Objects/Consumable/Food/inteq_cookies.rsi
     state: inteq_cookies
   - type: Item
-    heldPrefix: inteqcookies
   - type: Food
     trash:
-    - FoodInteqCookiesTrash
+    - FoodPacketInteQCookiesTrash
 
 - type: entity
   categories: [ HideSpawnMenu ]
   parent: FoodPacketTrash
   id: FoodPacketInteQCookiesTrash
-  name: inteq cookies bag
+  name: InteQ cookies bag
   components:
   - type: Sprite
     sprite: Backmen/Objects/Consumable/Food/inteq_cookies.rsi
     state: inteq_cookies_trash
-  - type: Item
-    inhandVisuals:
-      left:
-      - state: trash-inhand-left
-        color: "#8f522a"
-      right:
-      - state: trash-inhand-right
-        color: "#8f522a"
