@@ -3,7 +3,6 @@
   description: Where's my hot lizards?
   parent: VendingMachine
   id: VendingMachineInteqDrobe
-  suffix: backmen
   components:
   - type: VendingMachine
     pack: InteqDrobeInventory
