@@ -1,1 +1,1 @@
-trait-category-background = Прошлое сотрудника
+trait-category-background = Корпорация сотрудника

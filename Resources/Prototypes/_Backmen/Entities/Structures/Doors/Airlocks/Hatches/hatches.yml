@@ -18,7 +18,7 @@
     sprite: Backmen/Structures/Doors/Airlocks/Hatches/maintenance_hatch.rsi
   - type: Weldable
     time: 10
-    
+
 - type: entity
   id: AirlockHatchCentcomm
   parent: HighSecDoor
@@ -41,6 +41,9 @@
     sprite: Backmen/Structures/Doors/Airlocks/Hatches/hatch_inteq.rsi
   - type: Weldable
     time: 10
+  - type: ContainerFill
+    containers:
+      board: [ DoorElectronicsInteQ ]
 
 - type: entity
   parent: AirlockGlass
@@ -53,3 +56,6 @@
     sprite: Backmen/Structures/Doors/Airlocks/Hatches/hatch_glass_inteq.rsi
   - type: Weldable
     time: 10
+  - type: ContainerFill
+    containers:
+      board: [ DoorElectronicsInteQ ]

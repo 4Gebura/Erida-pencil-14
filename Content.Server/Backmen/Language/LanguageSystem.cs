@@ -22,30 +22,26 @@ public sealed partial class LanguageSystem : SharedLanguageSystem
         SubscribeLocalEvent<LanguageSpeakerComponent, ComponentInit>(OnInitLanguageSpeaker);
         SubscribeLocalEvent<UniversalLanguageSpeakerComponent, MapInitEvent>(OnUniversalInit);
         SubscribeLocalEvent<UniversalLanguageSpeakerComponent, ComponentShutdown>(OnUniversalShutdown);
-        SubscribeLocalEvent<LanguageAddComponent, ComponentInit>(OnComponentInit); // Erida
+        SubscribeLocalEvent<LanguageAddComponent, MapInitEvent>(OnLanguageAddInit); // Erida
 
         _languageSpeakerQuery = GetEntityQuery<LanguageSpeakerComponent>();
         _universalLanguageSpeakerQuery = GetEntityQuery<UniversalLanguageSpeakerComponent>();
     }
 
     // Erida-start
-    public void OnComponentInit(Entity<LanguageAddComponent> ent, ref ComponentInit args)
+    public void OnLanguageAddInit(Entity<LanguageAddComponent> ent, ref MapInitEvent args)
     {
+        var onlyUnderstoodLanguages = ent.Comp.UnderstoodLanguages;
+
         foreach (var language in ent.Comp.SpokenLanguages)
         {
-            if (ent.Comp.UnderstoodLanguages.Contains(language))
-            {
-                AddLanguage(ent.Owner, language, true, true);
-                ent.Comp.UnderstoodLanguages.Remove(language);
-                ent.Comp.SpokenLanguages.Remove(language);
-            }
-            else
-            {
-                AddLanguage(ent.Owner, language, true, false);
-                ent.Comp.SpokenLanguages.Remove(language);
-            }
+            var isUnderstood = onlyUnderstoodLanguages.Contains(language);
+            AddLanguage(ent.Owner, language, true, isUnderstood);
+
+            if (isUnderstood) onlyUnderstoodLanguages.Remove(language);
         }
-        foreach (var language in ent.Comp.UnderstoodLanguages)
+
+        foreach (var language in onlyUnderstoodLanguages)
         {
             AddLanguage(ent.Owner, language, false, true);
         }
