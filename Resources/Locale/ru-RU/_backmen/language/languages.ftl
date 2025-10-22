@@ -137,20 +137,11 @@ language-Elvish-description =
         ритуалов. Эльфийский язык также наполнен мудростью древних
         времён, что делает его важной частью культуры и традиций
         эльфов.
-language-Codespeak-name = Кодовый язык Синдиката
-language-Codespeak-description = Военные шифры, используемые Синдикатом.
-language-OldFastCodes-name = Старый кодовый язык
-language-OldFastCodes-description =
-    Старые военные шифры, использовавшиеся сотни лет назад.
-        Сейчас они почти забыты и заменены более продвинутыми системами связи, но кто-то всё ещё их использует.
 language-Demonic-name = Каршаниль
 language-Demonic-description =
     Каршанильский язык - это язык востока и севера,
     имеет сходство с мёртвым языком человеческой расы, "финским". Особенностью языка
     является наличие у каждой согласной своей мягкой и твердой версии.
-language-NewCodespeak-name = Кодовый язык NT
-language-NewCodespeak-description = Военные шифры, используемые NanoTrasen.
-
 language-Shark-name = Эве-Пишту
 language-Shark-description =
     Эве-Пишту очень занимательный язык плафеимов.

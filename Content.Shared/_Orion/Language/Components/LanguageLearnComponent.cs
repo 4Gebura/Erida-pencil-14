@@ -1,8 +1,13 @@
+using Content.Shared.Backmen.Language;
 using Robust.Shared.Audio;
 using Robust.Shared.GameStates;
 using Robust.Shared.Serialization.TypeSerializers.Implementations.Custom.Prototype.List;
 
-namespace Content.Shared.Backmen.Language.Components;
+namespace Content.Shared._Orion.Language.Components;
+
+//
+// License-Identifier: AGPL-3.0-or-later
+//
 
 [RegisterComponent, NetworkedComponent]
 public sealed partial class LanguageLearnComponent : Component

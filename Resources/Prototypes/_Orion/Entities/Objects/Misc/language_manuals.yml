@@ -25,12 +25,12 @@
 - type: entity
   parent: BaseItem
   id: ManualCodespeak
-  name: codespeak manual
+  name: Syndicate codespeak manual
   description: Manual that teaches you the codespeak language.
   suffix: 2 uses
   components:
   - type: Sprite
-    sprite: Backmen/Objects/Misc/books.rsi
+    sprite: _Orion/Objects/Misc/books.rsi
     layers:
     - state: syndicate
   - type: LanguageLearn
@@ -46,7 +46,7 @@
   suffix: 2 uses
   components:
   - type: Sprite
-    sprite: Backmen/Objects/Misc/books.rsi
+    sprite: _Orion/Objects/Misc/books.rsi
     layers:
     - state: inteq
   - type: LanguageLearn
@@ -56,17 +56,16 @@
 
 - type: entity
   parent: BaseItem
-  id: ManualNewCodespeak
-  name: Сodespeak manual
-  description: Manual that teaches you the codespeak language.
+  id: ManualCorporateCodespeak
+  name: corporate codespeak manual
+  description: Manual that teaches you the corporate codespeak language.
   suffix: 2 uses
   components:
   - type: Sprite
-    sprite: Backmen/Objects/Misc/books.rsi
+    sprite: _Orion/Objects/Misc/books.rsi
     layers:
-    - state: inteq
+    - state: nanotrasen
   - type: LanguageLearn
     maxUses: 2
     languages:
-      - NewCodespeak
-
+      - CorporateCodespeak

@@ -9,9 +9,9 @@
   components:
   - type: LanguageAdd
     speaks:
-      - NewCodespeak
+      - CorporateCodespeak
     understands:
-      - NewCodespeak
+      - CorporateCodespeak
 
 - type: trait
   id: SyndicateEmployee
