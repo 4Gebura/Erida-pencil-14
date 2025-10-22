@@ -1817,6 +1817,24 @@
             "directions": 4
         },
         {
+      "name": "inteqshuttle",
+      "directions": 4,
+      "license": "CC-BY-SA-3.0",
+      "copyright": "Erida"
+        },
+        {
+      "name": "inteq_key",
+      "directions": 4,
+      "license": "CC-BY-SA-3.0",
+      "copyright": "Erida"
+        },
+        {
+      "name": "inteq_key_off",
+      "directions": 4,
+      "license": "CC-BY-SA-3.0",
+      "copyright": "Erida"
+        },
+        {
             "name": "tank",
             "directions": 4
         },
