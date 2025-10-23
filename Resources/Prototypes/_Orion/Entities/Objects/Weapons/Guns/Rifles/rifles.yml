@@ -6,6 +6,6 @@
   description: Iconic weapon of war. Uses .30 rifle ammo. It is painted in the InteQ brand color.
   components:
   - type: Sprite
-    sprite: _Europa/Objects/Weapons/Guns/Rifles/inteq_akm.rsi
+    sprite: _Orion/Objects/Weapons/Guns/Rifles/inteq_akm.rsi
   - type: Clothing
-    sprite: _Europa/Objects/Weapons/Guns/Rifles/inteq_akm.rsi
+    sprite: _Orion/Objects/Weapons/Guns/Rifles/inteq_akm.rsi

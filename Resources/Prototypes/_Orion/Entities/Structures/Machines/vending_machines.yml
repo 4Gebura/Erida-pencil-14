@@ -12,7 +12,7 @@
   - type: Advertise
     pack: InteQDrobeAds
   - type: Sprite
-    sprite: _Europa/Structures/Machines/VendingMachines/inteqdrobe.rsi
+    sprite: _Orion/Structures/Machines/VendingMachines/inteqdrobe.rsi
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]

@@ -5,9 +5,9 @@
   components:
   - type: Sprite
     layers:
-    - sprite: _Europa/Objects/Misc/id_cards.rsi
+    - sprite: _Orion/Objects/Misc/id_cards.rsi
       state: brown
-    - sprite: _Europa/Objects/Misc/id_cards.rsi
+    - sprite: _Orion/Objects/Misc/id_cards.rsi
       state: sword
   - type: IdCard
     jobTitle: job-title-vanguard-leader
@@ -25,9 +25,9 @@
   components:
   - type: Sprite
     layers:
-    - sprite: _Europa/Objects/Misc/id_cards.rsi
+    - sprite: _Orion/Objects/Misc/id_cards.rsi
       state: brown
-    - sprite: _Europa/Objects/Misc/id_cards.rsi
+    - sprite: _Orion/Objects/Misc/id_cards.rsi
       state: sword
   - type: IdCard
     jobTitle: job-title-vanguard

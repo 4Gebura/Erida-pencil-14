@@ -6,6 +6,6 @@
   description: Exotic energy shield, when folded, can even fit in your pocket.
   components:
     - type: Sprite
-      sprite: _Europa/Objects/Weapons/Melee/inteq_e_shield.rsi
+      sprite: _Orion/Objects/Weapons/Melee/inteq_e_shield.rsi
     - type: Item
-      sprite: _Europa/Objects/Weapons/Melee/inteq_e_shield.rsi
+      sprite: _Orion/Objects/Weapons/Melee/inteq_e_shield.rsi

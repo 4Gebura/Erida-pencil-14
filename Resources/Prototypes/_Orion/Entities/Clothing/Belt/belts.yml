@@ -5,9 +5,9 @@
   description: Unique and versatile chest mount in which you can store weapons and ammunition.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/Belt/inteq_webbing.rsi
+    sprite: _Orion/Clothing/Belt/inteq_webbing.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/Belt/inteq_webbing.rsi
+    sprite: _Orion/Clothing/Belt/inteq_webbing.rsi
 
 - type: entity
   parent: [ BaseMinorContraband, ClothingBeltStorageBase ]
@@ -16,9 +16,9 @@
   description: Improved unloading for storing various items
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/Belt/inteq_droppouch.rsi
+    sprite: _Orion/Clothing/Belt/inteq_droppouch.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/Belt/inteq_droppouch.rsi
+    sprite: _Orion/Clothing/Belt/inteq_droppouch.rsi
 
 - type: entity
   parent: [ BaseMajorContraband, ClothingBeltBase ]
@@ -29,9 +29,9 @@
   - type: Item
     size: Ginormous
   - type: Sprite
-    sprite: _Europa/Clothing/Belt/inteq_shieldbelt.rsi
+    sprite: _Orion/Clothing/Belt/inteq_shieldbelt.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/Belt/inteq_shieldbelt.rsi
+    sprite: _Orion/Clothing/Belt/inteq_shieldbelt.rsi
   - type: PowerCellSlot
     cellSlotId: cell_slot
   - type: ContainerContainer

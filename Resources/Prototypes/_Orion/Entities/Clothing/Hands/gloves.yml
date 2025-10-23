@@ -5,9 +5,9 @@
   description: Tactical maid gloves, every self-respecting maid should be able to discreetly eliminate her goals.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/Hands/inteq_maid_gloves.rsi
+    sprite: _Orion/Clothing/Hands/inteq_maid_gloves.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/Hands/inteq_maid_gloves.rsi
+    sprite: _Orion/Clothing/Hands/inteq_maid_gloves.rsi
 
 - type: entity
   parent: ClothingHandsGlovesCombat
@@ -16,9 +16,9 @@
   description: Specialized combat gloves for carrying people around. Transfers tactical kidnapping and tackling knowledge to the user via the use of nanochips.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/Hands/inteq_infiltrator.rsi
+    sprite: _Orion/Clothing/Hands/inteq_infiltrator.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/Hands/inteq_infiltrator.rsi
+    sprite: _Orion/Clothing/Hands/inteq_infiltrator.rsi
   - type: Armor
     modifiers:
       coefficients:

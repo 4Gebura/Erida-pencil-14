@@ -9,7 +9,7 @@
     layers:
     - state: green
     - state: alive
-      sprite: _Europa/Mobs/Npc/simple_syndicate/blade.rsi
+      sprite: _Orion/Mobs/Npc/simple_syndicate/blade.rsi
   - type: ConditionalSpawner
     prototypes:
     - MobSimpleSyndicateBlade
@@ -23,7 +23,7 @@
     layers:
     - state: green
     - state: alive
-      sprite: _Europa/Mobs/Npc/simple_syndicate/knife.rsi
+      sprite: _Orion/Mobs/Npc/simple_syndicate/knife.rsi
   - type: ConditionalSpawner
     prototypes:
     - MobSimpleSyndicateKnife
@@ -37,7 +37,7 @@
     layers:
     - state: green
     - state: alive
-      sprite: _Europa/Mobs/Npc/simple_syndicate/pistol.rsi
+      sprite: _Orion/Mobs/Npc/simple_syndicate/pistol.rsi
   - type: ConditionalSpawner
     prototypes:
     - MobSimpleSyndicatePistol
@@ -51,7 +51,7 @@
     layers:
     - state: green
     - state: alive
-      sprite: _Europa/Mobs/Npc/simple_syndicate/shotgun.rsi
+      sprite: _Orion/Mobs/Npc/simple_syndicate/shotgun.rsi
   - type: ConditionalSpawner
     prototypes:
     - MobSimpleSyndicateShotgun
@@ -65,7 +65,7 @@
     layers:
     - state: green
     - state: alive
-      sprite: _Europa/Mobs/Npc/simple_syndicate/smg.rsi
+      sprite: _Orion/Mobs/Npc/simple_syndicate/smg.rsi
   - type: ConditionalSpawner
     prototypes:
     - MobSimpleSyndicateSMG

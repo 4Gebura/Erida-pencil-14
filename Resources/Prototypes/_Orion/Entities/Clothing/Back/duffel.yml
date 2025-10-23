@@ -5,7 +5,7 @@
   description: A large duffel bag for holding weapons and supplies.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/Back/Duffels/inteq_duffel.rsi
+    sprite: _Orion/Clothing/Back/Duffels/inteq_duffel.rsi
 
 - type: entity
   parent: ClothingBackpackDuffelInteQ
@@ -14,7 +14,7 @@
   description: A large duffel bag for holding weapons and ammunition.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/Back/Duffels/inteq_duffel_ammo.rsi
+    sprite: _Orion/Clothing/Back/Duffels/inteq_duffel_ammo.rsi
 
 - type: entity
   parent: ClothingBackpackDuffelInteQ
@@ -23,4 +23,4 @@
   description: A large duffel bag for holding weapons and medical things.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/Back/Duffels/inteq_duffel_med.rsi
+    sprite: _Orion/Clothing/Back/Duffels/inteq_duffel_med.rsi

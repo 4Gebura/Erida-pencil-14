@@ -5,9 +5,9 @@
   description: InteQ armored coat is made of durable fabric, with gilded patterns.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/OuterClothing/Coats/inteq_battle_coat.rsi
+    sprite: _Orion/Clothing/OuterClothing/Coats/inteq_battle_coat.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/OuterClothing/Coats/inteq_battle_coat.rsi
+    sprite: _Orion/Clothing/OuterClothing/Coats/inteq_battle_coat.rsi
 
 - type: entity
   parent: [ BaseMinorContraband, ClothingOuterCoatHoSTrench ]
@@ -16,9 +16,9 @@
   description: InteQ honorable armored coat is made of durable fabric, with gilded patterns.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/OuterClothing/Coats/inteq_honorable_battle_coat.rsi
+    sprite: _Orion/Clothing/OuterClothing/Coats/inteq_honorable_battle_coat.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/OuterClothing/Coats/inteq_honorable_battle_coat.rsi
+    sprite: _Orion/Clothing/OuterClothing/Coats/inteq_honorable_battle_coat.rsi
 
 - type: entity
   parent: [ BaseMinorContraband, ClothingOuterCoatAMG ]
@@ -27,9 +27,9 @@
   description: The version of the medical coat, with elements of a bulletproof vest, but your heart is protected.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/OuterClothing/Coats/inteq_med_coat.rsi
+    sprite: _Orion/Clothing/OuterClothing/Coats/inteq_med_coat.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/OuterClothing/Coats/inteq_med_coat.rsi
+    sprite: _Orion/Clothing/OuterClothing/Coats/inteq_med_coat.rsi
 
 - type: entity
   parent: ClothingOuterWinterCoat
@@ -38,9 +38,9 @@
   description: Insulated winter coat, looks like a merch.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/OuterClothing/WinterCoats/inteq_wintercoat.rsi
+    sprite: _Orion/Clothing/OuterClothing/WinterCoats/inteq_wintercoat.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/OuterClothing/WinterCoats/inteq_wintercoat.rsi
+    sprite: _Orion/Clothing/OuterClothing/WinterCoats/inteq_wintercoat.rsi
 
 - type: entity
   parent: ClothingOuterWinterCoat
@@ -49,6 +49,6 @@
   description: Insulated hoodie, looks like a merch.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/OuterClothing/Coats/inteq_hoodie.rsi
+    sprite: _Orion/Clothing/OuterClothing/Coats/inteq_hoodie.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/OuterClothing/Coats/inteq_hoodie.rsi
+    sprite: _Orion/Clothing/OuterClothing/Coats/inteq_hoodie.rsi

@@ -96,7 +96,7 @@
   name: InteQ vanguard leader spawner
   components:
   - type: Sprite
-    sprite: _Europa/Icons/inteq.rsi
+    sprite: _Orion/Icons/inteq.rsi
     state: logo
   - type: RandomHumanoidSpawner
     settings: InteQVanguardLeader
@@ -106,7 +106,7 @@
   name: InteQ vanguard operative spawner
   components:
   - type: Sprite
-    sprite: _Europa/Icons/inteq.rsi
+    sprite: _Orion/Icons/inteq.rsi
     state: logo
   - type: RandomHumanoidSpawner
     settings: InteQVanguardOperative
@@ -116,7 +116,7 @@
   name: InteQ vanguard soldier spawner
   components:
   - type: Sprite
-    sprite: _Europa/Icons/inteq.rsi
+    sprite: _Orion/Icons/inteq.rsi
     state: logo
   - type: RandomHumanoidSpawner
     settings: InteQVanguardSoldier
@@ -126,7 +126,7 @@
   name: InteQ vanguard medic spawner
   components:
   - type: Sprite
-    sprite: _Europa/Icons/inteq.rsi
+    sprite: _Orion/Icons/inteq.rsi
     state: logo
   - type: RandomHumanoidSpawner
     settings: InteQVanguardMedic

@@ -5,4 +5,4 @@
   description: The bag looks like a mail bag and has brown-yellow inserts.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/Back/Satchels/inteq_satchel.rsi
+    sprite: _Orion/Clothing/Back/Satchels/inteq_satchel.rsi

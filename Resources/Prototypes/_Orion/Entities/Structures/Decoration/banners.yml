@@ -5,5 +5,5 @@
   description: Banner displaying the InteQ logo.
   components:
   - type: Sprite
-    sprite: _Europa/Structures/Decoration/banner.rsi
+    sprite: _Orion/Structures/Decoration/banner.rsi
     state: banner_inteq

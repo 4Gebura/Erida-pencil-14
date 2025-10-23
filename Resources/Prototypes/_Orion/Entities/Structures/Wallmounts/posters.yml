@@ -5,7 +5,7 @@
   description: Recruitment to the InteQ.
   components:
   - type: Sprite
-    sprite: _Europa/Structures/Wallmounts/Posters/inteq_posters.rsi
+    sprite: _Orion/Structures/Wallmounts/Posters/inteq_posters.rsi
     state: inteq_poster1
 
 - type: entity
@@ -15,7 +15,7 @@
   description: Workship with InteQ.
   components:
   - type: Sprite
-    sprite: _Europa/Structures/Wallmounts/Posters/inteq_posters.rsi
+    sprite: _Orion/Structures/Wallmounts/Posters/inteq_posters.rsi
     state: inteq_poster2
 
 - type: entity
@@ -25,7 +25,7 @@
   description: Workship with InteQ.
   components:
   - type: Sprite
-    sprite: _Europa/Structures/Wallmounts/Posters/inteq_posters.rsi
+    sprite: _Orion/Structures/Wallmounts/Posters/inteq_posters.rsi
     state: inteq_poster3
 
 - type: entity
@@ -35,7 +35,7 @@
   description: InteQ.
   components:
   - type: Sprite
-    sprite: _Europa/Structures/Wallmounts/Posters/inteq_posters.rsi
+    sprite: _Orion/Structures/Wallmounts/Posters/inteq_posters.rsi
     state: inteq_poster4
 
 - type: entity
@@ -45,7 +45,7 @@
   description: NO SEX!!!
   components:
   - type: Sprite
-    sprite: _Europa/Structures/Wallmounts/Posters/inteq_posters.rsi
+    sprite: _Orion/Structures/Wallmounts/Posters/inteq_posters.rsi
     state: inteq_poster5
 
 - type: entity
@@ -55,7 +55,7 @@
   description: We even take furry freaks, join us!
   components:
   - type: Sprite
-    sprite: _Europa/Structures/Wallmounts/Posters/inteq_posters.rsi
+    sprite: _Orion/Structures/Wallmounts/Posters/inteq_posters.rsi
     state: inteq_poster6
 
 - type: entity
@@ -65,5 +65,5 @@
   description: Most beautiful lizards in the whole universe, join us!
   components:
   - type: Sprite
-    sprite: _Europa/Structures/Wallmounts/Posters/inteq_posters.rsi
+    sprite: _Orion/Structures/Wallmounts/Posters/inteq_posters.rsi
     state: inteq_poster7

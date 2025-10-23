@@ -6,9 +6,9 @@
   description: Anti-eretic armor.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/OuterClothing/Armor/inteq_dark_templar.rsi
+    sprite: _Orion/Clothing/OuterClothing/Armor/inteq_dark_templar.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/OuterClothing/Armor/inteq_dark_templar.rsi
+    sprite: _Orion/Clothing/OuterClothing/Armor/inteq_dark_templar.rsi
   - type: ToggleableClothing
     clothingPrototypes: #goobstation change
       head: ClothingHeadHelmetInteQDarkTemplar
@@ -29,9 +29,9 @@
   suffix: InteQ
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/OuterClothing/Armor/inteq_alt_dark_templar.rsi
+    sprite: _Orion/Clothing/OuterClothing/Armor/inteq_alt_dark_templar.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/OuterClothing/Armor/inteq_alt_dark_templar.rsi
+    sprite: _Orion/Clothing/OuterClothing/Armor/inteq_alt_dark_templar.rsi
   - type: ToggleableClothing
     clothingPrototypes: #goobstation change
       head: ClothingHeadHelmetInteQDarkTemplarAlt
@@ -43,9 +43,9 @@
   description: High-quality raincoat with an armored plate made of multilayer plasteel. It combines lightness and durability, has a buffer lining and fits perfectly to the body without making unnecessary sounds when worn.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/OuterClothing/Armor/inteq_infiltrator.rsi
+    sprite: _Orion/Clothing/OuterClothing/Armor/inteq_infiltrator.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/OuterClothing/Armor/inteq_infiltrator.rsi
+    sprite: _Orion/Clothing/OuterClothing/Armor/inteq_infiltrator.rsi
   - type: ExplosionResistance
     damageCoefficient: 0.6
   - type: Armor
@@ -65,9 +65,9 @@
   description: Ancient, but no less formidable suit of armor. It provides incredible protection from bullets and shrapnel, but it hinders movement. Or so it was before the technical department attached a passive exoskeleton to the base.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/OuterClothing/Armor/inteq_tombstone.rsi
+    sprite: _Orion/Clothing/OuterClothing/Armor/inteq_tombstone.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/OuterClothing/Armor/inteq_tombstone.rsi
+    sprite: _Orion/Clothing/OuterClothing/Armor/inteq_tombstone.rsi
   - type: ToggleableClothing
     clothingPrototypes: #goobstation change
       head: ClothingHeadHelmetInteQIronTombstone

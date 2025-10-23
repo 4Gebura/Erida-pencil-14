@@ -15,7 +15,7 @@
   - type: Sprite
     layers:
       - state: green
-      - sprite: _Europa/Icons/inteq.rsi
+      - sprite: _Orion/Icons/inteq.rsi
         state: logo
   - type: ConditionalSpawner
     prototypes:
@@ -29,7 +29,7 @@
   - type: Sprite
     layers:
       - state: green
-      - sprite: _Europa/Icons/inteq.rsi
+      - sprite: _Orion/Icons/inteq.rsi
         state: logo
   - type: ConditionalSpawner
     prototypes:
@@ -43,7 +43,7 @@
   - type: Sprite
     layers:
       - state: green
-      - sprite: _Europa/Icons/inteq.rsi
+      - sprite: _Orion/Icons/inteq.rsi
         state: logo
   - type: ConditionalSpawner
     prototypes:
@@ -57,7 +57,7 @@
   - type: Sprite
     layers:
       - state: green
-      - sprite: _Europa/Icons/inteq.rsi
+      - sprite: _Orion/Icons/inteq.rsi
         state: logo
   - type: ConditionalSpawner
     prototypes:
@@ -73,7 +73,7 @@
   - type: Sprite
     layers:
       - state: green
-      - sprite: _Europa/Mobs/Npc/gigachad_inteq.rsi
+      - sprite: _Orion/Mobs/Npc/gigachad_inteq.rsi
         state: alive
   - type: ConditionalSpawner
     prototypes:
@@ -88,7 +88,7 @@
   - type: Sprite
     layers:
       - state: green
-      - sprite: _Europa/Mobs/Npc/gigachad_inteq.rsi
+      - sprite: _Orion/Mobs/Npc/gigachad_inteq.rsi
         state: alive
   - type: RandomSpawner
     prototypes:
@@ -103,7 +103,7 @@
   - type: Sprite
     layers:
       - state: green
-      - sprite: _Europa/Mobs/Pets/inteq_carp.rsi
+      - sprite: _Orion/Mobs/Pets/inteq_carp.rsi
         state: icon
   - type: ConditionalSpawner
     prototypes:

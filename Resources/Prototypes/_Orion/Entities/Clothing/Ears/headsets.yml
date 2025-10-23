@@ -9,6 +9,6 @@
       key_slots:
       - EncryptionKeyInteQ
   - type: Sprite
-    sprite: _Europa/Clothing/Ears/inteq_headset.rsi
+    sprite: _Orion/Clothing/Ears/inteq_headset.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/Ears/inteq_headset.rsi
+    sprite: _Orion/Clothing/Ears/inteq_headset.rsi

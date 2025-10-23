@@ -580,7 +580,7 @@
     - Snout
 
 - type: entity
-  parent: ClothingMaskPullableBase # Europa-Edit
+  parent: ClothingMaskPullableBase # Orion-Edit
   id: ClothingMaskNeckGaiter
   name: neck gaiter
   description: Stylish neck gaiter for your neck, can protect from the cosmic wind?...

@@ -5,9 +5,9 @@
   description: An upgraded version of the syndicate hardsuit that features enhanced fireproofing, pressure resist, and superior armor.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/OuterClothing/Hardsuits/elite_inteq_hardsuit.rsi
+    sprite: _Orion/Clothing/OuterClothing/Hardsuits/elite_inteq_hardsuit.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/OuterClothing/Hardsuits/elite_inteq_hardsuit.rsi
+    sprite: _Orion/Clothing/OuterClothing/Hardsuits/elite_inteq_hardsuit.rsi
   - type: ToggleableClothing
     clothingPrototypes: #goobstation change
       head: ClothingHeadHelmetHardsuitInteQElite
@@ -19,9 +19,9 @@
   description: An upgraded version of the syndicate hardsuit that features enhanced fireproofing, pressure resist, and superior armor.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/OuterClothing/Hardsuits/inteq_hardsuit.rsi
+    sprite: _Orion/Clothing/OuterClothing/Hardsuits/inteq_hardsuit.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/OuterClothing/Hardsuits/inteq_hardsuit.rsi
+    sprite: _Orion/Clothing/OuterClothing/Hardsuits/inteq_hardsuit.rsi
   - type: ToggleableClothing
     clothingPrototypes: #goobstation change
       head: ClothingHeadHelmetHardsuitInteQ
@@ -33,9 +33,9 @@
   description: An upgraded version of the syndicate hardsuit that features enhanced fireproofing, pressure resist, and superior armor.
   components:
   - type: Sprite
-    sprite: _Europa/Clothing/OuterClothing/Hardsuits/inteq_syn_hardsuit.rsi
+    sprite: _Orion/Clothing/OuterClothing/Hardsuits/inteq_syn_hardsuit.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/OuterClothing/Hardsuits/inteq_syn_hardsuit.rsi
+    sprite: _Orion/Clothing/OuterClothing/Hardsuits/inteq_syn_hardsuit.rsi
   - type: ToggleableClothing
     clothingPrototypes: #goobstation change
       head: ClothingHeadHelmetHardsuitSyndicateInteQ

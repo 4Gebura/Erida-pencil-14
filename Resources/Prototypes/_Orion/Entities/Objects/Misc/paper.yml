@@ -7,7 +7,7 @@
     stampedName: stamp-component-stamped-name-InteQ
     stampState: "paper_stamp-inteq"
   - type: Sprite
-    sprite: _Europa/Objects/Misc/inteq_bur.rsi
+    sprite: _Orion/Objects/Misc/inteq_bur.rsi
     state: stamp-inteq
 
 - type: entity
@@ -17,7 +17,7 @@
   name: secret document folder
   components:
   - type: Sprite
-    sprite: _Europa/Objects/Misc/inteq_bur.rsi
+    sprite: _Orion/Objects/Misc/inteq_bur.rsi
     layers:
     - state: secret_folder
 
@@ -28,7 +28,7 @@
   name: secret documents
   components:
   - type: Sprite
-    sprite: _Europa/Objects/Misc/inteq_bur.rsi
+    sprite: _Orion/Objects/Misc/inteq_bur.rsi
     layers:
     - state: secret_docs
   - type: Item

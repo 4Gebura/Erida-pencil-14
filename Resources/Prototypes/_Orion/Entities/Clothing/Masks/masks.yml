@@ -15,9 +15,9 @@
   - type: Item
     size: Tiny
   - type: Sprite
-    sprite: _Europa/Clothing/Mask/inteq_infiltrator.rsi
+    sprite: _Orion/Clothing/Mask/inteq_infiltrator.rsi
   - type: Clothing
-    sprite: _Europa/Clothing/Mask/inteq_infiltrator.rsi
+    sprite: _Orion/Clothing/Mask/inteq_infiltrator.rsi
   - type: Armor
     modifiers:
       coefficients:

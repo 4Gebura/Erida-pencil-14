@@ -6,7 +6,7 @@
   description: Protects, pretty good.
   components:
   - type: Sprite
-    sprite: _Europa/Structures/Doors/Airlocks/Hatches/hatch_inteq.rsi
+    sprite: _Orion/Structures/Doors/Airlocks/Hatches/hatch_inteq.rsi
   - type: Weldable
     time: 10
 
@@ -18,6 +18,6 @@
   description: Protects, pretty good.
   components:
   - type: Sprite
-    sprite: _Europa/Structures/Doors/Airlocks/Hatches/hatch_glass_inteq.rsi
+    sprite: _Orion/Structures/Doors/Airlocks/Hatches/hatch_glass_inteq.rsi
   - type: Weldable
     time: 10
