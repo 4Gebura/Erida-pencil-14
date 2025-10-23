@@ -4,27 +4,39 @@
   root: torso
   slots:
     torso:
-      part: ChestHuman
+      part: TorsoHuman
       connections:
-      - right leg
-      - left leg
+      - right_arm
+      - left_arm
+      - right_leg
+      - left_leg
       organs:
         lungs: OrganAnimalLungs
         stomach: OrganAnimalStomach
         liver: OrganAnimalLiver
         heart: OrganAnimalHeart
         kidneys: OrganAnimalKidneys
-    right leg:
+    right_arm:
+      part: RightArmHuman
+      connections:
+      - right_hand
+    left_arm:
+      part: LeftArmHuman
+      connections:
+      - left_hand
+    right_hand:
+      part: RightHandHuman
+    left_hand:
+      part: LeftHandHuman
+    right_leg:
       part: RightLegHuman
       connections:
-      - right foot
-    left leg:
+      - right_foot
+    left_leg:
       part: LeftLegHuman
       connections:
-      - left foot
-    right foot:
+      - left_foot
+    right_foot:
       part: RightFootHuman
-    left foot:
+    left_foot:
       part: LeftFootHuman
-    feet:
-      part: RightFootHuman
