@@ -705,8 +705,6 @@
       injector:
         maxVol: 7
         reagents:
-        - ReagentId: Tirizene
-          Quantity: 3
         - ReagentId: Bananadine
           Quantity: 1.5
         - ReagentId: Honk
