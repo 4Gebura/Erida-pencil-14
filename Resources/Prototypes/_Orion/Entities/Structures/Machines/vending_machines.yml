@@ -9,8 +9,8 @@
     offState: off
     brokenState: broken
     normalState: normal-unshaded
-  - type: Advertise
-    pack: InteQDrobeAds
+  - type: DatasetVocalizer
+    dataset: InteQDrobeAds
   - type: Sprite
     sprite: _Orion/Structures/Machines/VendingMachines/inteqdrobe.rsi
     layers:
