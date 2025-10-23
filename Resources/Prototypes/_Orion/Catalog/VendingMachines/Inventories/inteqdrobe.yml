@@ -4,7 +4,7 @@
     ClothingBackpackInteQ: 5
     ClothingBackpackDuffelInteQ: 5
     ClothingBackpackSatchelInteQ: 5
-    ClothingBackpackMessengerInteQ: 5
+#    ClothingBackpackMessengerInteQ: 5 # Not ported :(
     ClothingHeadHatInteQSoft: 5
     ClothingHeadHelmetSwatInteQ: 5
     ClothingEyesGogglessInteQ: 5
