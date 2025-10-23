@@ -27,8 +27,8 @@
     - InteQAgentNamesPrefix
     - NamesMilitaryLast
     nameFormat: name-format-standard
-  - type: Advertise
-    pack: InteQAgent
+  - type: DatasetVocalizer
+    dataset: InteQAgent
   - type: LanguageKnowledge
     speaks:
     - TauCetiBasic
