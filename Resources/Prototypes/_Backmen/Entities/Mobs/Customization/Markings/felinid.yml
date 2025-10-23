@@ -2,8 +2,8 @@
 
 - type: marking
   id: FelinidEarsBasic
-  bodyPart: HeadTop
-  markingCategory: HeadTop
+  bodyPart: HeadSide
+  markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
   - sprite: Backmen/Mobs/Customization/felinid_ears.rsi
@@ -13,8 +13,8 @@
 
 - type: marking
   id: FelinidEarsCurled
-  bodyPart: HeadTop
-  markingCategory: HeadTop
+  bodyPart: HeadSide
+  markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
   - sprite: Backmen/Mobs/Customization/felinid_ears.rsi
@@ -24,8 +24,8 @@
 
 - type: marking
   id: FelinidEarsDroopy
-  bodyPart: HeadTop
-  markingCategory: HeadTop
+  bodyPart: HeadSide
+  markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
   - sprite: Backmen/Mobs/Customization/felinid_ears.rsi
@@ -35,8 +35,8 @@
 
 - type: marking
   id: FelinidEarsFuzzy
-  bodyPart: HeadTop
-  markingCategory: HeadTop
+  bodyPart: HeadSide
+  markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
   - sprite: Backmen/Mobs/Customization/felinid_ears.rsi
@@ -46,8 +46,8 @@
 
 - type: marking
   id: FelinidEarsStubby
-  bodyPart: HeadTop
-  markingCategory: HeadTop
+  bodyPart: HeadSide
+  markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
   - sprite: Backmen/Mobs/Customization/felinid_ears.rsi
@@ -57,8 +57,8 @@
 
 - type: marking
   id: FelinidEarsTall
-  bodyPart: HeadTop
-  markingCategory: HeadTop
+  bodyPart: HeadSide
+  markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
   - sprite: Backmen/Mobs/Customization/felinid_ears.rsi
@@ -70,8 +70,8 @@
 
 - type: marking
   id: FelinidEarsTorn
-  bodyPart: HeadTop
-  markingCategory: HeadTop
+  bodyPart: HeadSide
+  markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
   - sprite: Backmen/Mobs/Customization/felinid_ears.rsi
@@ -81,8 +81,8 @@
 
 - type: marking
   id: FelinidEarsWide
-  bodyPart: HeadTop
-  markingCategory: HeadTop
+  bodyPart: HeadSide
+  markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
   - sprite: Backmen/Mobs/Customization/felinid_ears.rsi

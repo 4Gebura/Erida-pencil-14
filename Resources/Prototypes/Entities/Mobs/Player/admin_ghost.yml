@@ -128,6 +128,9 @@
   name: Solar Control Interface
   description: View a Solar Control Interface.
   components:
+  - type: Action
+    icon: { sprite: Corvax/Interface/adminactions.rsi, state: solar } # Corvax-Resprite
+    iconOn: { sprite: Corvax/Interface/adminactions.rsi, state: solar }
   - type: InstantAction
     event: !type:ToggleIntrinsicUIEvent { key: enum.SolarControlConsoleUiKey.Key }
 
@@ -138,8 +141,8 @@
   description: View a Communications Interface.
   components:
   - type: Action
-    icon: { sprite: Interface/Actions/actions_ai.rsi, state: comms_console }
-    iconOn: Interface/Actions/actions_ai.rsi/comms_console.png
+    icon: { sprite: Corvax/Interface/adminactions.rsi, state: comms_console } # Corvax-Resprite
+    iconOn: { sprite: Corvax/Interface/adminactions.rsi, state: comms_console }
     keywords: [ "AI", "console", "interface" ]
     priority: -4
   - type: InstantAction
@@ -152,8 +155,8 @@
   description: View a Mass Scanner Interface.
   components:
   - type: Action
-    icon: { sprite: Interface/Actions/actions_ai.rsi, state: mass_scanner }
-    iconOn: Interface/Actions/actions_ai.rsi/mass_scanner.png
+    icon: { sprite: Corvax/Interface/adminactions.rsi, state: mass_scanner } # Corvax-Resprite
+    iconOn: { sprite: Corvax/Interface/adminactions.rsi, state: mass_scanner }
     keywords: [ "AI", "console", "interface" ]
     priority: -6
   - type: InstantAction
@@ -165,6 +168,9 @@
   name: Cargo Ordering Interface
   description: View a Cargo Ordering Interface.
   components:
+  - type: Action
+    icon: { sprite: Corvax/Interface/adminactions.rsi, state: cargo } # Corvax-Resprite
+    iconOn: { sprite: Corvax/Interface/adminactions.rsi, state: cargo } # Corvax-Resprite
   - type: InstantAction
     event: !type:ToggleIntrinsicUIEvent { key: enum.CargoConsoleUiKey.Orders }
 
@@ -175,8 +181,8 @@
   description: View a Crew Monitoring Interface.
   components:
   - type: Action
-    icon: { sprite: Interface/Actions/actions_ai.rsi, state: crew_monitor }
-    iconOn: Interface/Actions/actions_ai.rsi/crew_monitor.png
+    icon: { sprite: Corvax/Interface/adminactions.rsi, state: crew_monitor } # Corvax-Resprite
+    iconOn: { sprite: Corvax/Interface/adminactions.rsi, state: crew_monitor }
     keywords: [ "AI", "console", "interface" ]
     priority: -8
   - type: InstantAction
@@ -189,8 +195,8 @@
   description: View a Station Records Interface.
   components:
   - type: Action
-    icon: { sprite: Interface/Actions/actions_ai.rsi, state: station_records }
-    iconOn: Interface/Actions/actions_ai.rsi/station_records.png
+    icon: { sprite: Corvax/Interface/adminactions.rsi, state: station_records } # Corvax-Resprite
+    iconOn: { sprite: Corvax/Interface/adminactions.rsi, state: station_records }
     keywords: [ "AI", "console", "interface" ]
     priority: -7
   - type: InstantAction
