@@ -1,2 +1,2 @@
-ent-MobSyndicateSmuggler = контрабандист Синдиката
+ent-MobSyndicateSmuggler = контрабандист InteQ
     .desc = { ent-BaseMobHuman.desc }
