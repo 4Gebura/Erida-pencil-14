@@ -1,13 +1,19 @@
+using Content.Server.Backmen.Language;
 using Content.Server.DoAfter;
 using Content.Server.Popups;
+using Content.Shared._Orion.Language.Components;
 using Content.Shared.DoAfter;
-using Content.Shared.Backmen.Language.Events;
+using Content.Shared._Orion.Language.Events;
 using Content.Shared.Backmen.Language.Components;
 using Content.Shared.Examine;
 using Content.Shared.Interaction.Events;
 using Robust.Shared.Audio.Systems;
 
-namespace Content.Server.Backmen.Language;
+namespace Content.Server._Orion.Language;
+
+//
+// License-Identifier: AGPL-3.0-or-later
+//
 
 public sealed class LanguageLearnSystem : EntitySystem
 {
@@ -65,13 +71,10 @@ public sealed class LanguageLearnSystem : EntitySystem
             EnsureComp<UniversalLanguageSpeakerComponent>(args.User);
             learnedSomething = true;
         }
-
         foreach (var language in component.Languages)
         {
             if (language == "Universal")
-            {
                 continue;
-            }
 
             if (languageKnowledge.SpokenLanguages.Contains(language))
             {

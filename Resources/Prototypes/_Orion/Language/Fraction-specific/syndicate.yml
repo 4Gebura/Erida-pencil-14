@@ -1,12 +1,13 @@
 - type: language
-  id: NewCodespeak
+  id: Codespeak
   speech:
     fontId: Supernatural
-    color: "#0066ff"
+    color: "#DC143C"
   obfuscation:
-    !type:SyllableObfuscation
-    minSyllables: 1
-    maxSyllables: 3
+    !type:PhraseObfuscation
+    proportion: 0.69
+    minPhrases: 2
+    maxPhrases: 6
     replacement:
     - когда
     - после
@@ -128,3 +129,5 @@
     - перо
     - ткацкий
     - запах
+    - альфа
+    - дельта
