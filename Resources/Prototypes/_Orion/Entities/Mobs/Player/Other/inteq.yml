@@ -3,14 +3,14 @@
   id: InteQVanguard
   randomizeName: false
   speciesBlacklist:
-  - Monkey
-  - Kobold
-  - Abductor
-  - IPC
+#  - Monkey
+#  - Kobold
+#  - Abductor
+#  - IPC
   - Diona
   - Vox
   - Gingerbread
-  - Plasmaman
+#  - Plasmaman
   - Shadowkin
   components:
   - type: AntagImmune
