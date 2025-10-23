@@ -24,6 +24,7 @@
     - Demon
     - Shark
     #backmen-species-end
+    - Shadowkin # Erida-Edit
 
 - type: loadoutEffectGroup
   id: EffectSpeciesVox
