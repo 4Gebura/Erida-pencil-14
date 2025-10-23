@@ -8,6 +8,13 @@
 # WallSolid: Window
 # Table: null
 
+# Erida-Start
+
+BedsheetInteq: BedsheetInteQ
+VendingMachineInteqDrobe: VendingMachineInteQDrobe
+
+# Erida-End
+
 # 2023-07-03
 ClothingHeadHelmetHelmet: ClothingHeadHelmetBasic
 ClothingHeadHelmetHelmetOld: ClothingHeadHelmetBasic

@@ -818,7 +818,7 @@
   id: UplinkHeadsetEncryptionKey
   name: uplink-encryption-key-name
   description: uplink-encryption-key-desc
-  icon: { sprite: /Textures/Backmen/Objects/Devices/encryption_keys.rsi, state: inteq_label }
+  icon: { sprite: /Textures/_Orion/Objects/Devices/encryption_keys.rsi, state: inteq_label }
   productEntity: BoxEncryptionKeyInteQ # Two for the price of one
   discountCategory: usualDiscounts
   discountDownTo:
@@ -1429,7 +1429,7 @@
   id: UplinkRadioImplanter
   name: uplink-radio-implanter-name
   description: uplink-radio-implanter-desc
-  icon: { sprite: /Textures/Backmen/Objects/Devices/encryption_keys.rsi, state: inteq_label }
+  icon: { sprite: /Textures/_Orion/Objects/Devices/encryption_keys.rsi, state: inteq_label }
   productEntity: RadioImplanter
   discountCategory: usualDiscounts
   discountDownTo:
@@ -1665,7 +1665,7 @@
   id: UplinkEVASyndie
   name: uplink-eva-syndie-name
   description: uplink-eva-syndie-desc
-  icon: { sprite: /Textures/Backmen/Clothing/OuterClothing/Hardsuits/inteq_eva.rsi, state: icon }
+  icon: { sprite: /Textures/_Orion/Clothing/OuterClothing/Hardsuits/inteq_eva.rsi, state: icon }
   productEntity: ClothingBackpackDuffelInteQEVABundle
   discountCategory: rareDiscounts
   discountDownTo:
