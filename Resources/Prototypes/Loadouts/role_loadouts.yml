@@ -46,6 +46,7 @@
 - type: roleLoadout
   id: JobSecurityPilot # Corvax
   groups:
+  - SecurityServiceWeapon # Erida
   - Werx
   - Niz
   - Socks
@@ -447,6 +448,7 @@
   - Werx-HeadOfSecurity #erida
   - Niz-HeadOfSecurity #erida
   - Socks-HeadOfSecurity #erida
+  - SecurityServiceWeapon # Erida
   - HeadofSecurityHead
   - HeadofSecurityNeck
   - HeadofSecurityJumpsuit
@@ -465,6 +467,7 @@
   - Werx-Warden #erida
   - Niz-Warden #erida
   - Socks-Warden #erida
+  - SecurityServiceWeapon # Erida
   - WardenHead
   - WardenJumpsuit
   - SecurityBackpack
@@ -482,6 +485,7 @@
   - Werx-SecurityOfficer #erida
   - Niz-SecurityOfficer #erida
   - Socks-SecurityOfficer #erida
+  - SecurityServiceWeapon # Erida
   - SecurityHead
   - SecurityJumpsuit
   - SecurityBackpack
@@ -500,6 +504,7 @@
   - Werx-Detective #erida
   - Niz-Detective #erida
   - Socks-Detective #erida
+  - SecurityServiceWeapon # Erida
   - GroupTankHarness
   - DetectiveHead
   - DetectiveNeck
@@ -518,6 +523,7 @@
   - Werx-Cadet #erida
   - Niz-Cadet #erida
   - Socks-Cadet #erida
+  - SecurityServiceWeapon # Erida
   - SecurityCadetJumpsuit
   - SecurityBackpack
   - SurvivalSecurity

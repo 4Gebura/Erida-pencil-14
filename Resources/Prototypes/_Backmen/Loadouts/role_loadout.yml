@@ -1,6 +1,7 @@
 - type: roleLoadout
   id: JobBlueShieldOfficer
   groups:
+  - SecurityServiceWeapon # Erida
   - Werx-BlueShieldOfficer #backmen
   - Niz-BlueShieldOfficer #backmen
   - Socks-BlueShieldOfficer #backmen
@@ -17,6 +18,7 @@
 - type: roleLoadout
   id: JobBrigmedic
   groups:
+  - SecurityServiceWeapon # Erida
   - Werx-Brigmedic #erida
   - Niz-Brigmedic #erida
   - Socks-Brigmedic #erida

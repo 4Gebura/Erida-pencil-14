@@ -1,0 +1,10 @@
+# Miscellaneous
+- type: loadoutGroup
+  id: SecurityServiceWeapon
+  name: loadout-group-security-service-weapon
+  minLimit: 1
+  maxLimit: 1
+  loadouts:
+  - WeaponPistolN1984
+  - WeaponPistolMk58
+  - RevolverCapGun
