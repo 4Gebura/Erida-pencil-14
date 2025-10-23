@@ -1,6 +1,10 @@
 - type: npcFaction
   id: Dragon
   hostile:
+  # Orion-Start-Factions
+  - InteQ
+  - InteQHostile
+  # Orion-End-Factions
   - NanoTrasen
   - Syndicate
   - Xeno
@@ -14,6 +18,9 @@
 - type: npcFaction
   id: NanoTrasen
   hostile:
+  # Orion-Start-Factions
+  - InteQHostile
+  # Orion-End-Factions
   - SimpleHostile
   - Syndicate
   - Xeno
@@ -38,6 +45,9 @@
 - type: npcFaction
   id: PetsNT
   hostile:
+  # Orion-Start-Factions
+  - InteQHostile
+  # Orion-End-Factions
   - Mouse
   - SimpleHostile
   - Zombie
@@ -50,6 +60,10 @@
 - type: npcFaction
   id: SimpleHostile
   hostile:
+  # Orion-Start-Factions
+  - InteQ
+  - InteQHostile
+  # Orion-End-Factions
   - NanoTrasen
   - Syndicate
   - Passive
@@ -69,6 +83,9 @@
 - type: npcFaction
   id: Syndicate
   hostile:
+  # Orion-Start-Factions
+  - InteQHostile
+  # Orion-End-Factions
   - NanoTrasen
   - SimpleHostile
   - Xeno
@@ -83,6 +100,10 @@
 - type: npcFaction
   id: Xeno
   hostile:
+  # Orion-Start-Factions
+  - InteQ
+  - InteQHostile
+  # Orion-End-Factions
   - NanoTrasen
   - Syndicate
   - Passive
@@ -97,6 +118,10 @@
 - type: npcFaction
   id: Zombie
   hostile:
+  # Orion-Start-Factions
+  - InteQ
+  - InteQHostile
+  # Orion-End-Factions
   - NanoTrasen
   - SimpleNeutral
   - SimpleHostile
@@ -113,6 +138,10 @@
 - type: npcFaction
   id: Revolutionary
   hostile:
+  # Orion-Start-Factions
+  - InteQ
+  - InteQHostile
+  # Orion-End-Factions
   - NanoTrasen
   - Zombie
   - SimpleHostile
@@ -124,6 +153,10 @@
 - type: npcFaction
   id: AllHostile
   hostile:
+  # Orion-Start-Factions
+  - InteQ
+  - InteQHostile
+  # Orion-End-Factions
   - NanoTrasen
   - Dragon
   - Mouse
@@ -142,6 +175,10 @@
 - type: npcFaction
   id: Wizard
   hostile:
+  # Orion-Start-Factions
+  - InteQ
+  - InteQHostile
+  # Orion-End-Factions
   - NanoTrasen
   - Dragon
   - Mouse
@@ -161,6 +198,10 @@
   id: Xenoborg
   hostile:
   # they have brains
+  # Orion-Start-Factions
+  - InteQ
+  - InteQHostile
+  # Orion-End-Factions
   - NanoTrasen
   - Syndicate
   - Zombie

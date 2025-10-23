@@ -8,12 +8,13 @@
 # WallSolid: Window
 # Table: null
 
-
 # Erida-Start
 
 ManualNewCodespeak: ManualCorporateCodespeak
+BedsheetInteq: BedsheetInteQ
+VendingMachineInteqDrobe: VendingMachineInteQDrobe
 
-# Orion-End
+# Erida-End
 
 # 2023-07-03
 ClothingHeadHelmetHelmet: ClothingHeadHelmetBasic

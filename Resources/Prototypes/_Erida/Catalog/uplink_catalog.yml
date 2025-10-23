@@ -2,7 +2,7 @@
   id: UplinkHardsuitInteQ
   name: uplink-hardsuit-inteq-name
   description: uplink-hardsuit-inteq-desc
-  icon: { sprite: /Textures/Backmen/Clothing/OuterClothing/Hardsuits/inteq_hardsuit.rsi, state: icon }
+  icon: { sprite: /Textures/_Orion/Clothing/OuterClothing/Hardsuits/inteq_hardsuit.rsi, state: icon }
   productEntity: ClothingBackpackDuffelInteQHardsuitBundle
   discountCategory: veryRareDiscounts
   discountDownTo:
