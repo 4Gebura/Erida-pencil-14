@@ -41,7 +41,7 @@
     ClothingBackpackInteQ: 2
     ClothingBackpackDuffelInteQ: 2
     ClothingBackpackSatchelInteQ: 2
-    ClothingBackpackMessengerInteQ: 2
+#    ClothingBackpackMessengerInteQ: 2 # Not ported :(
     ClothingHeadHatInteQSoft: 3
 #    ClothingHeadHelmetSwatInteQ: 5
 #    ClothingEyesGogglessInteQ: 5

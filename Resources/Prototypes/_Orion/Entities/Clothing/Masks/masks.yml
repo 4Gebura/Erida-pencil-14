@@ -25,6 +25,6 @@
         Slash: 0.95
         Piercing: 0.95
         Heat: 0.95
-  - type: Tag
-    tags:
-    - IPCMaskWearable # EE - IPCs
+#  - type: Tag
+#    tags:
+#    - IPCMaskWearable # EE - IPCs

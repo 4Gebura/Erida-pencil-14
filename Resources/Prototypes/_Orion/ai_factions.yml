@@ -27,11 +27,8 @@
   - Zombie
   - Revolutionary
   # Goob-Start-Factions
-  - Changeling
-  - Heretic
   - Blob
   - Wizard
-  - PirateFaction
   # Goob-End-Factions
   friendly:
   - InteQ

@@ -106,6 +106,7 @@
     # Orion-Start
     rarePrototypes:
       - FlagInteQ
+      - FlagLizard
     rareChance: 0.01
     # Orion-End
 
