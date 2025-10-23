@@ -554,7 +554,7 @@
       min: 1
       max: 1
       pickPlayer: false
-      startingGear: SyndicateLoneOperativeGearFull
+      startingGear: InteQLoneOperativeGearFull
       roleLoadout:
       - RoleSurvivalNukie
       components:

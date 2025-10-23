@@ -580,7 +580,7 @@
     - Snout
 
 - type: entity
-  parent: ClothingMaskBase
+  parent: ClothingMaskPullableBase # Orion-Edit
   id: ClothingMaskNeckGaiter
   name: neck gaiter
   description: Stylish neck gaiter for your neck, can protect from the cosmic wind?...
@@ -594,6 +594,7 @@
   - type: Tag
     tags:
     - WhitelistChameleon
+  - type: BreathMask # Orion
 
 - type: entity
   parent: ClothingMaskNeckGaiter

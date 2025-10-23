@@ -19,9 +19,6 @@
     {
       "name": "envelope_closed"
     },
-	{
-	 "name": "paper_stamp-inteq"
-	},
     {
       "name": "envelope_open"
     },
@@ -206,6 +203,9 @@
     },
     {
       "name": "paper_stamp-syndicate"
+    },
+    {
+      "name": "paper_stamp-inteq"
     },
     {
       "name": "paper_stamp-trader"
