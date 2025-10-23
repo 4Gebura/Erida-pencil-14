@@ -9,6 +9,7 @@ research-technology-atmospheric-tools = Атмосферные инструме�
 research-technology-power-generation-machines = Генераторы питания
 research-technology-power-generation-advanced-machines = Продвинутые генераторы питания
 research-technology-mechanical-compression-machines = Компрессорное оборудование
+research-technology-engineering-advanced-details = Продвинутые детали
 research-technology-engineering-machines = Базовое оборудование
 research-technology-engineering-advanced-machines = Продвинутое оборудование
 research-technology-atmospheric-machines = Атмосферное оборудование

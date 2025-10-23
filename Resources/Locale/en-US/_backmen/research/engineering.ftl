@@ -9,6 +9,7 @@ research-technology-atmospheric-tools = Atmospheric tools
 research-technology-power-generation-machines = Power generation machines
 research-technology-power-generation-advanced-machines = Advanced power generation machines
 research-technology-mechanical-compression-machines = Mechanical compression machines
+research-technology-engineering-advanced-details = Advanced details
 research-technology-engineering-machines = Basic machines
 research-technology-engineering-advanced-machines = Advanced machines
 research-technology-atmospheric-machines = Atmospheric machines
