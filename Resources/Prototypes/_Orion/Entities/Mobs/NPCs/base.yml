@@ -12,8 +12,8 @@
     interfaces:
       enum.StrippingUiKey.Key:
         type: StrippableBoundUserInterface
-      enum.SurgeryUIKey.Key:
-        type: SurgeryBui
+#      enum.SurgeryUIKey.Key:
+#        type: SurgeryBui
   - type: ComplexInteraction
   - type: StatusEffects
     allowed:
