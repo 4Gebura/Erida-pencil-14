@@ -45,17 +45,17 @@
       reagents:
       - ReagentId: Plasma
         Quantity: 0.005
-  - type: ComponentToggler
-    components:
-    - type: Cautery # Shitmed
-      speed: 1.25
-    - type: SurgeryTool # Shitmed
-      startSound:
-        collection: Welder
-      endSound:
-        collection: WelderOff
-    - type: Execution
-      doAfterDuration: 4.0
+#  - type: ComponentToggler
+#    components:
+#    - type: Cautery # Shitmed
+#      speed: 1.25
+#    - type: SurgeryTool # Shitmed
+#      startSound:
+#        collection: Welder
+#      endSound:
+#        collection: WelderOff
+#    - type: Execution
+#      doAfterDuration: 4.0
 
 - type: entity
   parent: BaseMeleeWeaponPlasma
