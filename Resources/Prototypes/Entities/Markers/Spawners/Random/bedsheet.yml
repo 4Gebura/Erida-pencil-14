@@ -11,6 +11,7 @@
     - type: RandomSpawner
       rarePrototypes:
         - BedsheetIan
+        - BedsheetInteQ # Orion
         - BedsheetCosmos
       rareChance: 0.03
       prototypes:

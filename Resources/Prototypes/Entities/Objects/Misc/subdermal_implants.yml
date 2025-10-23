@@ -99,7 +99,7 @@
     - type: WirelessNetworkConnection
       range: 500
       #Erida-Start
-    - type: RattleOnTrigger 
+    - type: RattleOnTrigger
       radioChannel: Security
       #Erida-End
 
@@ -158,7 +158,7 @@
   - type: SubdermalImplant
   - type: RadioImplant
     radioChannels:
-    - Syndicate
+    - InteQ
 
 - type: entity
   parent: [ BaseSubdermalImplant, StorePresetUplink ]
