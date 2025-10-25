@@ -42,15 +42,15 @@
   id: SyndicateOperativeGearFullNoUplink
   equipment:
     jumpsuit: ClothingUniformJumpsuitOperative
-    back: ClothingBackpackDuffelSyndicate
-    mask: ClothingMaskGasSyndicate
+    back: ClothingBackpackDuffelInteQ
+    mask: ClothingMaskInteQInfiltrator
     eyes: ClothingEyesHudSyndicate
-    ears: ClothingHeadsetAltSyndicate
+    ears: ClothingHeadsetInteQ
     gloves: ClothingHandsGlovesCombat
-    outerClothing: ClothingOuterHardsuitSyndie
+    outerClothing: ClothingOuterHardsuitInteQ
     shoes: ClothingShoesBootsCombatFilled
-    id: SyndiPDA
-    pocket2: PlushieCarp
+    id: InteQIDCard
+    pocket2: DoubleEmergencyOxygenTankFilled
     belt: ClothingBeltMilitaryWebbing
   storage:
     back:

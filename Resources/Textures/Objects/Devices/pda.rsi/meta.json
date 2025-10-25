@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from tgstation, pda-cluwne, pda-centcom and pda-brigmedic made by CatBackGround (GitHub) | pda-pirate made by brainfood1183 (Github), pda-syndi-agent drawn by Ubaser, pda-wizard recolour by Velken",
+  "copyright": "Taken from tgstation, pda-cluwne, pda-centcom and pda-brigmedic made by CatBackGround (GitHub) | pda-pirate made by brainfood1183 (Github), pda-syndi-agent drawn by Ubaser, pda-wizard recolour by Velken | pda-ert and pda-cburn made by nikitok007 (Discord)",
   "size": {
     "x": 32,
     "y": 32
@@ -47,6 +47,9 @@
     },
     {
       "name": "pda-cargo"
+    },
+    {
+      "name": "pda-cburn"
     },
     {
       "name": "pda-ce"
