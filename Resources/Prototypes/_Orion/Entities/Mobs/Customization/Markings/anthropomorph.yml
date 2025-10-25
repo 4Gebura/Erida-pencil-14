@@ -6,7 +6,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_beaktiny
 
 - type: marking
@@ -15,7 +15,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_bigbeak
 
 - type: marking
@@ -24,7 +24,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph, Arachnid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_bigmandible
 
 - type: marking
@@ -33,11 +33,11 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_bird
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_bird_overlay_1
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_bird_overlay_2
 
 - type: marking
@@ -46,9 +46,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_bovine
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_bovine_overlay
 
 - type: marking
@@ -57,9 +57,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_chemlight
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_chemlight_overlay
 
 - type: marking
@@ -68,7 +68,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_corvidbeak
 
 - type: marking
@@ -77,7 +77,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_deer
 
 - type: marking
@@ -86,7 +86,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_duck
 
 - type: marking
@@ -95,9 +95,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_easterndnw
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_easterndnw_overlay
 
 - type: marking
@@ -106,11 +106,11 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_easterndnw
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_easterndnw_overlay
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_easterndnw_usiki
 
 - type: marking
@@ -119,7 +119,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_elephant
 
 - type: marking
@@ -128,9 +128,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_fox
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_fox_overlay
 
 - type: marking
@@ -139,7 +139,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_goose
 
 - type: marking
@@ -148,9 +148,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_hanubus
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_hanubus_overlay
 
 - type: marking
@@ -159,9 +159,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_hhorse
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_hhorse_overlay
 
 - type: marking
@@ -170,9 +170,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_hjackal
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_hjackal_overlay
 
 - type: marking
@@ -181,9 +181,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_hpanda
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_hpanda_overlay
 
 - type: marking
@@ -192,9 +192,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_hshark
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_hshark_overlay
 
 - type: marking
@@ -203,9 +203,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_hspots
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_hspots_overlay
 
 - type: marking
@@ -214,7 +214,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_husky
 
 - type: marking
@@ -223,7 +223,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_huskyalt
 
 - type: marking
@@ -232,9 +232,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_hzebra
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_hzebra_overlay
 
 - type: marking
@@ -243,9 +243,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_lcanid
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_lcanid_overlay
 
 - type: marking
@@ -254,9 +254,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_magus
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_magus_overlay
 
 - type: marking
@@ -265,11 +265,11 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_noodle
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_noodle_overlay_1
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_noodle_overlay_2
 
 - type: marking
@@ -278,9 +278,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_orca
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_orca_overlay
 
 - type: marking
@@ -289,7 +289,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_otie
 
 - type: marking
@@ -298,7 +298,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_owl
 
 - type: marking
@@ -307,9 +307,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_pede
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_pede_overlay
 
 - type: marking
@@ -318,7 +318,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_proboscis
 
 - type: marking
@@ -327,7 +327,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_rabbit
 
 - type: marking
@@ -336,9 +336,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_renamon
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_renamon_overlay
 
 - type: marking
@@ -347,11 +347,11 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_rhino
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_rhino_overlay_1
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_rhino_overlay_2
 
 - type: marking
@@ -360,7 +360,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_rhinobeetle
 
 - type: marking
@@ -369,7 +369,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_rodent
 
 - type: marking
@@ -378,7 +378,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_rodentthick
 
 - type: marking
@@ -387,7 +387,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_round
 
 - type: marking
@@ -396,9 +396,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_roundlight
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_roundlight_overlay
 
 - type: marking
@@ -407,7 +407,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_scanid
 
 - type: marking
@@ -416,7 +416,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_scarab
 
 - type: marking
@@ -425,9 +425,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_sergal
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_sergal_overlay
 
 - type: marking
@@ -436,7 +436,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_shark
 
 - type: marking
@@ -445,7 +445,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_sharp
 
 - type: marking
@@ -454,7 +454,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_sharplight
 
 - type: marking
@@ -463,9 +463,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_short
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_short_overlay
 
 - type: marking
@@ -474,7 +474,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph, Arachnid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_smallmandible
 
 - type: marking
@@ -483,9 +483,9 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_snub
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_snub_overlay
 
 - type: marking
@@ -494,7 +494,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_spider
 
 - type: marking
@@ -503,7 +503,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_stubby
 
 - type: marking
@@ -512,7 +512,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_tajaran
 
 - type: marking
@@ -521,7 +521,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_tarantula
 
 - type: marking
@@ -530,7 +530,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_toucan
 
 - type: marking
@@ -539,7 +539,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_vulp
 
 - type: marking
@@ -548,11 +548,11 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_wah
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_wah_overlay_1
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_wah_overlay_2
 
 - type: marking
@@ -561,7 +561,7 @@
   markingCategory: Snout
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_wolf
 
 # HEAD | ГОЛОВА
@@ -572,9 +572,9 @@
   markingCategory: Head
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_bug
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_bug_overlay
 
 - type: marking
@@ -583,7 +583,7 @@
   markingCategory: Head
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_extra_haydeemedical
 
 - type: marking
@@ -592,7 +592,7 @@
   markingCategory: Head
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_extra_magus
 
 - type: marking
@@ -601,7 +601,7 @@
   markingCategory: Head
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_guilmon
 
 - type: marking
@@ -610,7 +610,7 @@
   markingCategory: Head
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_skullbird
 
 - type: marking
@@ -619,7 +619,7 @@
   markingCategory: Head
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_sloog
 
 - type: marking
@@ -628,7 +628,7 @@
   markingCategory: Head
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_extra_skulldog
 
 - type: marking
@@ -637,7 +637,7 @@
   markingCategory: Head
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_snouts.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_snouts.rsi
     state: snout_extra_skulldogALT
 
 # HORNS | РОГА
@@ -648,7 +648,7 @@
   markingCategory: HeadTop
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: horns_dragonlong
 
 - type: marking
@@ -657,7 +657,7 @@
   markingCategory: HeadTop
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: horns_guilmon
 
 - type: marking
@@ -666,7 +666,7 @@
   markingCategory: HeadTop
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_goathorns
 
 - type: marking
@@ -675,7 +675,7 @@
   markingCategory: HeadTop
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_horn1
 
 # EARS | УШИ
@@ -686,9 +686,9 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_avali
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_avali_overlay
 
 - type: marking
@@ -697,7 +697,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_axolotl
 
 - type: marking
@@ -706,7 +706,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_bat
 
 - type: marking
@@ -715,7 +715,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_bear
 
 - type: marking
@@ -724,9 +724,9 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_vulp
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_vulp_overlay
 
 - type: marking
@@ -735,9 +735,9 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_bigwolf
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_bigwolf_overlay
 
 - type: marking
@@ -746,7 +746,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_bunny
 
 - type: marking
@@ -755,9 +755,9 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_bunny_ADJ
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_bunny_overlay
 
 - type: marking
@@ -766,7 +766,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_bunny2
 
 - type: marking
@@ -775,7 +775,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_bunnyalt
 
 - type: marking
@@ -784,9 +784,9 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_catbig
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_catbig_overlay
 
 - type: marking
@@ -795,7 +795,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_catnormal
 
 - type: marking
@@ -804,11 +804,11 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_chemlight
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_chemlight_overlay_1
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_chemlight_overlay_2
 
 - type: marking
@@ -817,7 +817,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_cow
 
 - type: marking
@@ -826,7 +826,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_deer
 
 - type: marking
@@ -835,11 +835,11 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_easternd
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_easternd_overlay_1
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_easternd_overlay_2
 
 - type: marking
@@ -848,7 +848,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_eevee
 
 - type: marking
@@ -857,7 +857,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_elephant
 
 - type: marking
@@ -866,7 +866,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Dwarf, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_elf
 
 - type: marking
@@ -875,7 +875,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_fennec
 
 - type: marking
@@ -884,7 +884,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_fish
 
 - type: marking
@@ -893,7 +893,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_foldedback
 
 - type: marking
@@ -902,9 +902,9 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_fox
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_fox_overlay
 
 - type: marking
@@ -913,7 +913,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_goat
 
 - type: marking
@@ -922,7 +922,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_gret
 
 - type: marking
@@ -931,7 +931,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_hawk
 
 - type: marking
@@ -940,7 +940,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_jackal
 
 - type: marking
@@ -949,7 +949,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_jellyfish
 
 - type: marking
@@ -958,7 +958,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_kangaroo
 
 - type: marking
@@ -967,7 +967,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_moth
 
 - type: marking
@@ -976,7 +976,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_mouse
 
 - type: marking
@@ -985,7 +985,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_murid
 
 - type: marking
@@ -994,9 +994,9 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_noodledragon
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_noodledragon_overlay
 
 - type: marking
@@ -1005,7 +1005,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_otie
 
 - type: marking
@@ -1014,7 +1014,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_pede
 
 - type: marking
@@ -1023,7 +1023,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_plumeant
 
 - type: marking
@@ -1032,7 +1032,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_pointy
 
 - type: marking
@@ -1041,7 +1041,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_possum
 
 - type: marking
@@ -1050,7 +1050,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_rabbit
 
 - type: marking
@@ -1059,11 +1059,11 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_rabbitalt
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_rabbitalt_overlay_1
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_rabbitalt_overlay_2
 
 - type: marking
@@ -1072,9 +1072,9 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_renamon
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_renamon_overlay
 
 - type: marking
@@ -1083,7 +1083,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_roundant
 
 - type: marking
@@ -1092,9 +1092,9 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_sergal
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_sergal_overlay
 
 #- type: marking # Because used backmen marking
@@ -1103,7 +1103,7 @@
 #  markingCategory: HeadSide
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
 #    state: ears_shadekin
 
 - type: marking
@@ -1112,7 +1112,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_thinant
 
 - type: marking
@@ -1121,7 +1121,7 @@
   markingCategory: HeadSide
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears.rsi
     state: ears_wolf
 
 #- type: marking
@@ -1130,11 +1130,11 @@
 #  markingCategory: HeadSide
 #  speciesRestriction: [Anthropomorph, Felinid, Human]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
 #    state: ears_bnnuy
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
 #    state: ears_bnnuy_overlay_1
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
 #    state: ears_bnnuy_overlay_2
 
 #- type: marking
@@ -1143,11 +1143,11 @@
 #  markingCategory: HeadSide
 #  speciesRestriction: [Anthropomorph, Felinid, Human]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
 #    state: ears_bnnuy2
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
 #    state: ears_bnnuy2_overlay_1
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
 #    state: ears_bnnuy2_overlay_2
 
 #- type: marking
@@ -1156,9 +1156,9 @@
 #  markingCategory: HeadSide
 #  speciesRestriction: [Anthropomorph, Felinid, Human]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
 #    state: ears_bunnytall
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
 #    state: ears_bunnytall_overlay
 
 #- type: marking
@@ -1167,7 +1167,7 @@
 #  markingCategory: HeadSide
 #  speciesRestriction: [Anthropomorph, Felinid, Human]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
 #    state: ears_jackalope
 
 #- type: marking
@@ -1176,9 +1176,9 @@
 #  markingCategory: HeadSide
 #  speciesRestriction: [Anthropomorph, Felinid, Human]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
 #    state: ears_sandfox
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
 #    state: ears_sandfox_overlay
 
 #- type: marking
@@ -1187,9 +1187,9 @@
 #  markingCategory: HeadSide
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
 #    state: ears_shadekinround
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_ears_32x64.rsi
 #    state: ears_shadekinround_overlay
 
 # TAILS | ХВОСТ
@@ -1200,7 +1200,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_mouse
 
 - type: marking
@@ -1209,9 +1209,9 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_ailurus
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_ailurus_overlay
 
 - type: marking
@@ -1220,7 +1220,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_axolotl
 
 - type: marking
@@ -1229,7 +1229,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_bear
 
 - type: marking
@@ -1238,11 +1238,11 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid, Arachnid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_bee
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_bee_overlay_1
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_bee_overlay_2
 
 - type: marking
@@ -1251,13 +1251,13 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_bee
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_bee_overlay_1
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_bee_overlay_2
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_bee_overlay_jalo
 
 - type: marking
@@ -1266,7 +1266,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_capra
 
 - type: marking
@@ -1275,7 +1275,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_catbig
 
 - type: marking
@@ -1284,11 +1284,11 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_chemlight
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_chemlight_overlay_1
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_chemlight_overlay_2
 
 - type: marking
@@ -1297,7 +1297,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_cow
 
 - type: marking
@@ -1306,9 +1306,9 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_datashark
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_datashark_overlay
 
 - type: marking
@@ -1317,7 +1317,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_deer
 
 - type: marking
@@ -1326,9 +1326,9 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_easternd
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_easternd_overlay
 
 - type: marking
@@ -1337,9 +1337,9 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_eevee
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_eevee_overlay
 
 - type: marking
@@ -1348,7 +1348,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_fennec
 
 - type: marking
@@ -1357,9 +1357,9 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_fish
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_fish_overlay
 
 - type: marking
@@ -1368,7 +1368,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_fluffy
 
 - type: marking
@@ -1377,9 +1377,9 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_fox
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_fox_overlay
 
 - type: marking
@@ -1388,11 +1388,11 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_gecko
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_gecko_overlay_1
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_gecko_overlay_2
 
 - type: marking
@@ -1401,7 +1401,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_guilmon
 
 - type: marking
@@ -1410,7 +1410,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid, Harpy]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_hawk
 
 - type: marking
@@ -1419,7 +1419,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_horse
 
 - type: marking
@@ -1428,9 +1428,9 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_husky
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_husky_overlay
 
 - type: marking
@@ -1439,11 +1439,11 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_insect_overlay_1
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_insect_overlay_2
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_insect
 
 - type: marking
@@ -1453,7 +1453,7 @@
 #  sponsorOnly: true
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_kitsune
 
 - type: marking
@@ -1462,7 +1462,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_lunasune
 
 - type: marking
@@ -1471,9 +1471,9 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_sabresune
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_sabresune_overlay
 
 - type: marking
@@ -1482,7 +1482,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_lab
 
 - type: marking
@@ -1491,7 +1491,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid, Harpy]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_longpigeon
 
 - type: marking
@@ -1500,9 +1500,9 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_nightstalker
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_nightstalker_overlay
 
 - type: marking
@@ -1511,9 +1511,9 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_orca
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_orca_overlay
 
 - type: marking
@@ -1522,7 +1522,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_otie
 
 - type: marking
@@ -1531,9 +1531,9 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_pede
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_pede_overlay
 
 - type: marking
@@ -1542,7 +1542,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_rabbit
 
 - type: marking
@@ -1551,7 +1551,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_raccoon
 
 - type: marking
@@ -1560,7 +1560,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_sergal
 
 #- type: marking # Because used backmen marking
@@ -1569,7 +1569,7 @@
 #  markingCategory: Tail
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
 #    state: tail_shadekin
 
 #- type: marking # Because used backmen marking
@@ -1578,7 +1578,7 @@
 #  markingCategory: Tail
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
 #    state: tail_shadekinshort
 
 - type: marking
@@ -1587,7 +1587,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_shark
 
 - type: marking
@@ -1596,7 +1596,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_shepherd
 
 - type: marking
@@ -1605,7 +1605,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid, Harpy]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_shorthawk
 
 - type: marking
@@ -1614,7 +1614,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid, Harpy]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_shortpigeon
 
 - type: marking
@@ -1623,9 +1623,9 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_skunk
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_skunk_overlay
 
 - type: marking
@@ -1634,7 +1634,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_snaketail
 
 - type: marking
@@ -1643,7 +1643,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_squirrel
 
 - type: marking
@@ -1653,7 +1653,7 @@
 #  sponsorOnly: true
   speciesRestriction: [Anthropomorph, Felinid, Dwarf, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_succubus
 
 - type: marking
@@ -1662,9 +1662,9 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_swallow
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_swallow_overlay
 
 - type: marking
@@ -1673,7 +1673,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_tailmaw
 
 - type: marking
@@ -1682,7 +1682,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_tentacle
 
 - type: marking
@@ -1691,7 +1691,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_wolf
 
 - type: marking
@@ -1700,7 +1700,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_wolf_alt
 
 - type: marking
@@ -1709,7 +1709,7 @@
   markingCategory: Tail
   speciesRestriction: [Anthropomorph, Felinid]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_tails.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_vulp
 
 # CHEST | ГРУДЬ
@@ -1720,7 +1720,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: absarms_chest
 
 - type: marking
@@ -1729,7 +1729,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: absbelly_chest
 
 - type: marking
@@ -1738,9 +1738,9 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: bat_chest
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: bat_chest_overlay
 
 - type: marking
@@ -1749,7 +1749,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: bee_chest
 
 - type: marking
@@ -1758,7 +1758,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: bovine_chest
 
 - type: marking
@@ -1767,9 +1767,9 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: chemlight_chest
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: chemlight_chest_overlay
 
 - type: marking
@@ -1778,7 +1778,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: corgi_chest
 
 - type: marking
@@ -1787,7 +1787,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: corvid_chest
 
 - type: marking
@@ -1796,7 +1796,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: dalmation_chest
 
 - type: marking
@@ -1805,7 +1805,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: deer_chest
 
 - type: marking
@@ -1814,9 +1814,9 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: dog_chest
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: dog_chest_overlay
 
 - type: marking
@@ -1825,7 +1825,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: easternd_chest
 
 - type: marking
@@ -1834,7 +1834,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: eevee_chest
 
 - type: marking
@@ -1843,7 +1843,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: female_template
 
 - type: marking
@@ -1852,7 +1852,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: fennec_chest
 
 - type: marking
@@ -1861,7 +1861,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: floof_chest
 
 - type: marking
@@ -1870,7 +1870,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: fox_chest
 
 - type: marking
@@ -1879,7 +1879,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph, Reptilian, Dwarf, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: gloss_chest_v1
 
 - type: marking
@@ -1888,7 +1888,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph, Reptilian, Dwarf, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: gloss_chest_v2
 
 - type: marking
@@ -1897,7 +1897,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: hawk_chest
 
 - type: marking
@@ -1906,7 +1906,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: husky_chest
 
 - type: marking
@@ -1915,9 +1915,9 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: hyena_chest
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: hyena_chest_overlay
 
 - type: marking
@@ -1926,7 +1926,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: ltiger_chest
 
 - type: marking
@@ -1935,7 +1935,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: moth_chest
 
 - type: marking
@@ -1944,7 +1944,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: noodledragon_chest
 
 - type: marking
@@ -1953,9 +1953,9 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: noodledragon_chest
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: noodledragon_chest_dots
 
 - type: marking
@@ -1964,7 +1964,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: noodledragon_chest_dots
 
 - type: marking
@@ -1973,7 +1973,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: orca_chest
 
 - type: marking
@@ -1982,9 +1982,9 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: otie_chest
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: otie_chest_overlay
 
 - type: marking
@@ -1993,7 +1993,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: otter_chest
 
 - type: marking
@@ -2002,7 +2002,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: panther_chest
 
 - type: marking
@@ -2011,7 +2011,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: pigeon_chest
 
 - type: marking
@@ -2020,7 +2020,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: possum_chest
 
 - type: marking
@@ -2029,7 +2029,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: raccalt_chest
 
 - type: marking
@@ -2038,7 +2038,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: raccoon_chest
 
 - type: marking
@@ -2047,7 +2047,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: redpanda_chest
 
 - type: marking
@@ -2056,7 +2056,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph, Dwarf, Human]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: sabresune_chest
 
 - type: marking
@@ -2065,7 +2065,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: sergal_chest
 
 - type: marking
@@ -2074,7 +2074,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: shark_chest
 
 - type: marking
@@ -2083,9 +2083,9 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: shepherd_chest
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: shepherd_chest_overlay
 
 - type: marking
@@ -2094,7 +2094,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: shrike_chest
 
 - type: marking
@@ -2103,7 +2103,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: skunk_chest
 
 - type: marking
@@ -2112,9 +2112,9 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: sloog_chest
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: sloog_chest_overlay
 
 - type: marking
@@ -2123,7 +2123,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: tajaran_chest
 
 - type: marking
@@ -2132,9 +2132,9 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: tiger_chest
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: tiger_chest_overlay
 
 - type: marking
@@ -2143,7 +2143,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: vulp_chest
 
 - type: marking
@@ -2152,9 +2152,9 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: wolf_chest
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: wolf_chest_overlay
 
 - type: marking
@@ -2163,9 +2163,9 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/synthliz_body_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/synthliz_body_markings.rsi
     state: synthlizlights_chest
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/synthliz_body_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/synthliz_body_markings.rsi
     state: synthlizlights_chest_overlay
 
 - type: marking
@@ -2174,7 +2174,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/synthliz_body_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/synthliz_body_markings.rsi
     state: synthlizscutes_chest
 
 - type: marking
@@ -2183,7 +2183,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/synthliz_body_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/synthliz_body_markings.rsi
     state: synthlizpecs_chest
 
 - type: marking
@@ -2192,7 +2192,7 @@
   markingCategory: Chest
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/synthliz_body_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/synthliz_body_markings.rsi
     state: synthlizsplates_chest
 
 # OVERLAY | ОВЕРЛЕЙ
@@ -2203,9 +2203,9 @@
   markingCategory: Overlay
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/neck_fluff.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/neck_fluff.rsi
     state: insect_fluff_flat
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/neck_fluff.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/neck_fluff.rsi
     state: insect_fluff_flat_overlay
 
 - type: marking
@@ -2214,9 +2214,9 @@
   markingCategory: Overlay
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/neck_fluff.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/neck_fluff.rsi
     state: insect_fluff_hyena
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/neck_fluff.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/neck_fluff.rsi
     state: insect_fluff_hyena_overlay
 
 - type: marking
@@ -2225,11 +2225,11 @@
   markingCategory: Overlay
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/neck_fluff.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/neck_fluff.rsi
     state: insect_fluff_hyena
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/neck_fluff.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/neck_fluff.rsi
     state: insect_fluff_hyena_overlay
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/neck_fluff.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/neck_fluff.rsi
     state: insect_fluff_hyena_stripes
 
 - type: marking
@@ -2238,7 +2238,7 @@
   markingCategory: Overlay
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/neck_fluff.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/neck_fluff.rsi
     state: insect_fluff_renamon
 
 - type: marking
@@ -2247,9 +2247,9 @@
   markingCategory: Overlay
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/neck_fluff.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/neck_fluff.rsi
     state: insect_fluff_soft
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/neck_fluff.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/neck_fluff.rsi
     state: insect_fluff_soft_overlay
 
 # TODO переместить куда-то, или переделать, нихуя не красятся. Доделать.
@@ -2259,7 +2259,7 @@
 #  markingCategory: Overlay
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/wings.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/wings.rsi
 #    state: insect_wings_angelmoth
 
 #- type: marking
@@ -2268,7 +2268,7 @@
 #  markingCategory: Overlay
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/wings.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/wings.rsi
 #    state: insect_wings_aspen
 
 - type: marking
@@ -2277,7 +2277,7 @@
   markingCategory: Overlay
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/wings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/wings.rsi
     state: insect_wings_beetle
 
 #- type: marking
@@ -2286,7 +2286,7 @@
 #  markingCategory: Overlay
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/wings.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/wings.rsi
 #    state: insect_wings_delirious
 
 - type: marking
@@ -2295,7 +2295,7 @@
   markingCategory: Overlay
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/wings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/wings.rsi
     state: insect_wings_delta
 
 - type: marking
@@ -2304,7 +2304,7 @@
   markingCategory: Overlay
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/wings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/wings.rsi
     state: insect_wings_dragonalt
 
 #- type: marking
@@ -2313,7 +2313,7 @@
 #  markingCategory: Overlay
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/wings.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/wings.rsi
 #    state: insect_wings_dreamhead
 
 - type: marking
@@ -2322,7 +2322,7 @@
   markingCategory: Overlay
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/wings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/wings.rsi
     state: insect_wings_insect
 
 - type: marking
@@ -2331,7 +2331,7 @@
   markingCategory: Overlay
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/wings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/wings.rsi
     state: insect_wings_minibat
 
 - type: marking
@@ -2340,7 +2340,7 @@
   markingCategory: Overlay
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/wings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/wings.rsi
     state: insect_wings_minifeather
 
 - type: marking
@@ -2349,7 +2349,7 @@
   markingCategory: Overlay
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/wings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/wings.rsi
     state: insect_wings_straight
 
 - type: marking
@@ -2358,7 +2358,7 @@
   markingCategory: Overlay
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/wings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/wings.rsi
     state: insect_wings_swept
 
 - type: marking
@@ -2367,7 +2367,7 @@
   markingCategory: Overlay
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/wings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/wings.rsi
     state: insect_wings_tinybat
 
 - type: marking
@@ -2376,7 +2376,7 @@
   markingCategory: Overlay
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/wings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/wings.rsi
     state: insect_wings_tinyfeather
 
 - type: marking
@@ -2385,7 +2385,7 @@
   markingCategory: Overlay
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/wings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/wings.rsi
     state: insect_wings_variable
 
 # ARMS | РУКИ
@@ -2396,9 +2396,9 @@
   markingCategory: Arms
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: chemlight_l_hand
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: chemlight_l_hand_overlay
 
 - type: marking
@@ -2407,9 +2407,9 @@
   markingCategory: Arms
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: chemlight_r_hand
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: chemlight_r_hand_overlay
 
 - type: marking
@@ -2418,7 +2418,7 @@
   markingCategory: Arms
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: panther_l_hand
 
 - type: marking
@@ -2427,7 +2427,7 @@
   markingCategory: Arms
   speciesRestriction: [Anthropomorph]
   sprites:
-  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
     state: panther_r_hand
 
 # LEGS | НОГИ
@@ -2438,7 +2438,7 @@
   bodyPart: RFoot
   speciesRestriction: [Anthropomorph, Reptilian]
   sprites:
-    - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+    - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
       state: pawsocks
 
 #- type: marking
@@ -2447,7 +2447,7 @@
 #  markingCategory: Legs
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
 #    state: chemlight_l_leg_digi
 
 #- type: marking
@@ -2456,7 +2456,7 @@
 #  markingCategory: Legs
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
 #    state: chemlight_r_leg_digi
 
 #- type: marking
@@ -2465,7 +2465,7 @@
 #  markingCategory: Legs
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
 #    state: avian_l_leg_digi
 
 #- type: marking
@@ -2474,7 +2474,7 @@
 #  markingCategory: Legs
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
 #    state: avian_r_leg_digi
 
 #- type: marking
@@ -2483,7 +2483,7 @@
 #  markingCategory: Legs
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
 #    state: deoxys_l_leg
 
 #- type: marking
@@ -2492,7 +2492,7 @@
 #  markingCategory: Legs
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
 #    state: deoxys_r_leg
 
 #- type: marking
@@ -2501,7 +2501,7 @@
 #  markingCategory: Legs
 #  speciesRestriction: [Anthropomorph, Reptilian]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
 #    state: easternd_l_leg
 
 #- type: marking
@@ -2510,7 +2510,7 @@
 #  markingCategory: Legs
 #  speciesRestriction: [Anthropomorph, Reptilian]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
 #    state: easternd_r_leg
 
 #- type: marking
@@ -2519,7 +2519,7 @@
 #  markingCategory: Legs
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
 #    state: kogti
 
 #- type: marking
@@ -2528,7 +2528,7 @@
 #  markingCategory: Legs
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
 #    state: kogti
 
 #- type: marking
@@ -2537,7 +2537,7 @@
 #  markingCategory: Legs
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
 #    state: panther_l_leg
 
 #- type: marking
@@ -2546,5 +2546,5 @@
 #  markingCategory: Legs
 #  speciesRestriction: [Anthropomorph]
 #  sprites:
-#  - sprite: _Ataraxia/Mobs/Customization/Anthropomorph/mam_markings.rsi
+#  - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_markings.rsi
 #    state: panther_r_leg

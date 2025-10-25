@@ -27,10 +27,10 @@
     RArm: MobAnthropomorphRArm
     LHand: MobAnthropomorphLHand
     RHand: MobAnthropomorphRHand
-    LLeg: MobAnthropomorphLLegDigi # Ataraxia-Digitigrade
-    RLeg: MobAnthropomorphRLegDigi # Ataraxia-Digitigrade
-    LFoot: MobAnthropomorphLFootDigi # Ataraxia-Digitigrade
-    RFoot: MobAnthropomorphRFootDigi # Ataraxia-Digitigrade
+    LLeg: MobAnthropomorphLLegDigi # Orion-Digitigrade
+    RLeg: MobAnthropomorphRLegDigi # Orion-Digitigrade
+    LFoot: MobAnthropomorphLFootDigi # Orion-Digitigrade
+    RFoot: MobAnthropomorphRFootDigi # Orion-Digitigrade
 
 - type: markingPoints
   id: MobAnthropomorphMarkingLimits
@@ -76,85 +76,85 @@
 - type: humanoidBaseSprite
   id: MobAnthropomorphHead
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: head_m
 
 - type: humanoidBaseSprite
   id: MobAnthropomorphHeadMale
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: head_m
 
 - type: humanoidBaseSprite
   id: MobAnthropomorphHeadFemale
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: head_f
 
 - type: humanoidBaseSprite
   id: MobAnthropomorphTorso
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: torso_m
 
 - type: humanoidBaseSprite
   id: MobAnthropomorphTorsoMale
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: torso_m
 
 - type: humanoidBaseSprite
   id: MobAnthropomorphTorsoFemale
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: torso_f
 
 - type: humanoidBaseSprite
   id: MobAnthropomorphLLeg
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: l_leg
 
 - type: humanoidBaseSprite
   id: MobAnthropomorphLHand
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: l_hand
 
 - type: humanoidBaseSprite
   id: MobAnthropomorphLArm
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: l_arm
 
 - type: humanoidBaseSprite
   id: MobAnthropomorphLFoot
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: l_foot
 
 - type: humanoidBaseSprite
   id: MobAnthropomorphRLeg
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: r_leg
 
 - type: humanoidBaseSprite
   id: MobAnthropomorphRHand
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: r_hand
 
 - type: humanoidBaseSprite
   id: MobAnthropomorphRArm
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: r_arm
 
 - type: humanoidBaseSprite
   id: MobAnthropomorphRFoot
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: r_foot
 
 # DIGI-LEGS
@@ -162,23 +162,23 @@
 - type: humanoidBaseSprite
   id: MobAnthropomorphLLegDigi
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: l_leg_digi
 
 - type: humanoidBaseSprite
   id: MobAnthropomorphLFootDigi
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: l_foot_digi
 
 - type: humanoidBaseSprite
   id: MobAnthropomorphRLegDigi
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: r_leg_digi
 
 - type: humanoidBaseSprite
   id: MobAnthropomorphRFootDigi
   baseSprite:
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: r_foot_digi
