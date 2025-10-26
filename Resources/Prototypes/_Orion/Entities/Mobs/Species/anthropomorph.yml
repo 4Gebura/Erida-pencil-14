@@ -9,14 +9,13 @@
     species: Anthropomorph
     hideLayersOnEquip:
     - Snout
-    - HeadTop
     - HeadSide
   - type: Hunger
   - type: Puller
     needsHands: false
   - type: Thirst
   - type: Icon
-    sprite: _Ataraxia/Mobs/Species/Anthropomorph/parts.rsi
+    sprite: _Orion/Mobs/Species/Anthropomorph/parts.rsi
     state: full
   - type: Body
     prototype: Anthropomorph
@@ -28,22 +27,30 @@
       amount: 5
   - type: Inventory
     speciesId: reptilian
+    # Orion-Start
+    femaleDisplacements:
+      jumpsuit:
+        sizeMaps:
+          32:
+            sprite: _Orion/Mobs/Species/displacement.rsi
+            state: jumpsuit-female
+      shoes:
+        sizeMaps:
+          32:
+            sprite: _Orion/Mobs/Species/displacement.rsi
+            state: shoes
     displacements:
       jumpsuit:
         sizeMaps:
           32:
-            sprite: _Ataraxia/Mobs/Species/displacement.rsi
-            state: jumpsuit
-      outerClothing:
-        sizeMaps:
-          32:
-            sprite: _Ataraxia/Mobs/Species/displacement.rsi
+            sprite: _Orion/Mobs/Species/displacement.rsi
             state: jumpsuit
       shoes:
         sizeMaps:
           32:
-            sprite: _Ataraxia/Mobs/Species/displacement.rsi
+            sprite: _Orion/Mobs/Species/displacement.rsi
             state: shoes
+    # Orion-End
   - type: Vocal
     sounds:
       Male: MaleHuman
@@ -75,3 +82,32 @@
   components:
   - type: HumanoidAppearance
     species: Anthropomorph
+    hideLayersOnEquip:
+    - Snout
+    - HeadSide
+  - type: Inventory
+    speciesId: reptilian
+    # Orion-Start
+    femaleDisplacements:
+      jumpsuit:
+        sizeMaps:
+          32:
+            sprite: _Orion/Mobs/Species/displacement.rsi
+            state: jumpsuit-female
+      shoes:
+        sizeMaps:
+          32:
+            sprite: _Orion/Mobs/Species/displacement.rsi
+            state: shoes
+    displacements:
+      jumpsuit:
+        sizeMaps:
+          32:
+            sprite: _Orion/Mobs/Species/displacement.rsi
+            state: jumpsuit
+      shoes:
+        sizeMaps:
+          32:
+            sprite: _Orion/Mobs/Species/displacement.rsi
+            state: shoes
+    # Orion-End

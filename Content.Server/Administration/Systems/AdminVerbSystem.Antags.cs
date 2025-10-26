@@ -53,7 +53,7 @@ public sealed partial class AdminVerbSystem
         {
             Text = traitorName,
             Category = VerbCategory.Antag,
-            Icon = new SpriteSpecifier.Rsi(new ResPath("/Textures/_Backmen/Interface/Misc/job_icons.rsi"), "InteQ"),
+            Icon = new SpriteSpecifier.Rsi(new ResPath("/Textures/_Orion/Interface/Misc/job_icons.rsi"), "InteQ"),
             Act = () =>
             {
                 _antag.ForceMakeAntag<TraitorRuleComponent>(targetPlayer, DefaultTraitorRule);

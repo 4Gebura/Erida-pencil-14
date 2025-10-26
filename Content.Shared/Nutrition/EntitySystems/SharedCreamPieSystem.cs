@@ -8,7 +8,7 @@ namespace Content.Shared.Nutrition.EntitySystems
     [UsedImplicitly]
     public abstract class SharedCreamPieSystem : EntitySystem
     {
-        [Dependency] private SharedStunSystem _stunSystem = default!;
+        // [Dependency] private SharedStunSystem _stunSystem = default!; // Erida
         [Dependency] private readonly SharedAppearanceSystem _appearance = default!;
 
         public override void Initialize()
@@ -64,7 +64,7 @@ namespace Content.Shared.Nutrition.EntitySystems
 
             CreamedEntity(uid, creamPied, args);
 
-            _stunSystem.TryUpdateParalyzeDuration(uid, TimeSpan.FromSeconds(creamPie.ParalyzeTime));
+            // _stunSystem.TryUpdateParalyzeDuration(uid, TimeSpan.FromSeconds(creamPie.ParalyzeTime)); // Erida
         }
 
         protected virtual void CreamedEntity(EntityUid uid, CreamPiedComponent creamPied, ThrowHitByEvent args) {}

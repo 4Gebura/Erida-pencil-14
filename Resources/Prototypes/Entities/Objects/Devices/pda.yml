@@ -1187,6 +1187,13 @@
   name: CBURN PDA
   description: Smells like rotten flesh.
   components:
+  - type: Appearance
+    appearanceDataInit:
+     enum.PdaVisuals.PdaType:
+       !type:String
+       pda-cburn
+  - type: Icon
+    state: pda-cburn
   - type: Pda
     id: CBURNIDcard
   - type: PdaBorderColor
