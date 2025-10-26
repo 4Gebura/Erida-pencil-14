@@ -1651,7 +1651,7 @@
   bodyPart: Tail
   markingCategory: Tail
 #  sponsorOnly: true
-  speciesRestriction: [Anthropomorph, Felinid, Dwarf, Human]
+  speciesRestriction: [Anthropomorph, Felinid, Human]
   sprites:
   - sprite: _Orion/Mobs/Customization/Anthropomorph/mam_tails.rsi
     state: tail_succubus
