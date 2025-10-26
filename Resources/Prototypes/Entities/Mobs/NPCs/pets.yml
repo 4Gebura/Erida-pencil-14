@@ -612,7 +612,7 @@
     spawned:
     - id: FoodMeat
       amount: 3
-    - id: Telecrystal5
+    - id: TelecrystalOrange5 # Erida-edit
       amount: 1
   - type: Grammar
     attributes:

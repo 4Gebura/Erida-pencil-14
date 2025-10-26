@@ -24711,7 +24711,7 @@ entities:
     - type: Transform
       pos: -82.5,-7.5
       parent: 2
-- proto: BaseUplinkRadio
+- proto: BaseInteQUplinkRadio
   entities:
   - uid: 2337
     components:

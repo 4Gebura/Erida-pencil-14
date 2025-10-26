@@ -22,8 +22,8 @@
   It can be accessed from your hotbar.
   <Box>
     <GuideEntityEmbed Entity="PassengerPDA" Caption="PDA"/>
-    <GuideEntityEmbed Entity="Telecrystal" Caption="Telecrystals"/>
-    <GuideEntityEmbed Entity="BaseUplinkRadio" Caption="Uplink Implant"/>
+    <GuideEntityEmbed Entity="TelecrystalOrange" Caption="Telecrystals"/>
+    <GuideEntityEmbed Entity="BaseInteQUplinkRadio" Caption="Uplink Implant"/>
   </Box>
 
   [bold]Make sure to close your PDA uplink to prevent anyone else from seeing it.[/bold] You don't want [color=#cb0000]Security[/color] to notice you have it and confiscate it from you!

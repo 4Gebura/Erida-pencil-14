@@ -158,23 +158,23 @@
   - type: SubdermalImplant
   - type: RadioImplant
     radioChannels:
-    - InteQ
+    - Syndicate
 
 - type: entity
-  parent: [ BaseSubdermalImplant, StorePresetUplink ]
-  id: UplinkImplant
+  parent: [ BaseSubdermalImplant, StorePresetUplinkSyndicate ]
+  id: UplinkImplantSyndicate
   name: uplink implant
   description: This implant lets the user access a hidden Syndicate uplink at will.
   categories: [ HideSpawnMenu ]
   components:
   - type: SubdermalImplant
-    implantAction: ActionOpenUplinkImplant
+    implantAction: ActionOpenUplinkImplantSyndicate
     whitelist:
       components:
       - Hands # prevent mouse buying grenade penguin since its not telepathic
   - type: Store
     balance:
-      Telecrystal: 0
+      TelecrystalRed: 0
   - type: UserInterface
     interfaces:
       enum.StoreUiKey.Key:

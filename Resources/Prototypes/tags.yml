@@ -1550,3 +1550,11 @@
 
 - type: Tag
   id: FullBodyOuter # this outerclothing wraps around the feet and legs
+
+# Erida Edit start
+- type: Tag
+  id: SyndicateUplink
+
+- type: Tag
+  id: InteQUplink
+# Erida Edit end

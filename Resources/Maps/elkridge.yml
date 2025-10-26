@@ -21625,7 +21625,7 @@ entities:
       rot: 3.141592653589793 rad
       pos: 28.5,-41.5
       parent: 2
-- proto: BaseUplinkRadio
+- proto: BaseInteQUplinkRadio
   entities:
   - uid: 11353
     components:

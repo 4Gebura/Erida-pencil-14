@@ -30,3 +30,9 @@
 - type: contrabandSeverity
   id: Magical
   examineText: contraband-examine-text-Magical
+
+# Erida edit start
+- type: contrabandSeverity
+  id: InteQ
+  examineText: contraband-examine-text-InteQ
+# Erida edit end

@@ -54,3 +54,38 @@
     useRate: 0
   - type: UseDelay
     delay: 10.0
+
+- type: entity
+  id: ClothingBeltInteQWebbingGrenadeFilled
+  parent: ClothingBeltInteQWebbing
+  name: grenadier chest rig
+  suffix: Filled
+  components:
+  - type: Item
+    size: Ginormous
+  - type: Storage
+    maxItemSize: Normal
+    grid:
+    - 0,0,7,1
+  - type: StorageFill
+    contents:
+      - id: ExGrenade
+        amount: 4
+      - id: SyndieMiniBomb
+        amount: 2
+      - id: EmpGrenade
+        amount: 2
+
+- type: entity
+  id: ClothingBeltInteQWebbingMedFilled
+  parent: ClothingBeltInteQWebbing
+  suffix: Filled
+  components:
+  - type: StorageFill
+    contents:
+      - id: ChemistryBottleEpinephrine
+        amount: 2
+      - id: ChemistryBottleEphedrine
+        amount: 2
+      - id: ChemistryBottleOmnizine
+      - id: MedkitCombatFilled

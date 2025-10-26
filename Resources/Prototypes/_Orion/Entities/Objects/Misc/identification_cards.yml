@@ -34,5 +34,7 @@
     jobIcon: JobIconInteQ
   - type: Access
     tags:
+    - NuclearOperative
+    - InteQ
     - InteQVanguard
     - Maintenance

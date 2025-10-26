@@ -1,22 +1,21 @@
 - type: startingGear
   id: InteQOperativeGearFullNoUplink
   equipment:
-    jumpsuit: ClothingUniformJumpsuitOperative
+    jumpsuit: ClothingUniformJumpsuitInteQOperative
     back: ClothingBackpackDuffelInteQ
     mask: ClothingMaskInteQInfiltrator
-    eyes: ClothingEyesHudSyndicate
+    eyes: ClothingEyesGogglessInteQ
     ears: ClothingHeadsetInteQ
     gloves: ClothingHandsGlovesCombat
     outerClothing: ClothingOuterHardsuitInteQ
     shoes: ClothingShoesBootsCombatFilled
-    id: InteQIDCard
-    pocket2: PlushieCarp
-    belt: ClothingBeltMilitaryWebbing
+    id: InteQVanguardIDCard
+    belt: ClothingBeltInteQWebbing
   storage:
     back:
-    - WeaponPistolViper
+    - WeaponPistolInteQCommissar
     - PinpointerSyndicateNuclear
-    - DeathAcidifierImplanter
+    - DeathAcidifierImplanterInteQ
 
 #Nuclear Operative Gear
 - type: startingGear
@@ -39,8 +38,8 @@
   id: InteQCommanderGearFull
   parent: InteQOperativeGearFull
   equipment:
-    neck: SyndicateWhistle
-    outerClothing: ClothingOuterHardsuitSyndicateInteQ
+    neck: ClothingNeckCloakInteQ
+    outerClothing: ClothingOuterHardsuitInteQ
   inhand:
   - NukeOpsDeclarationOfWar
 
@@ -49,20 +48,22 @@
   id: InteQOperativeMedicFull
   parent: InteQOperativeGearFull
   equipment:
-    eyes: ClothingEyesHudSyndicateAgent
-    shoes: ClothingShoesBootsMagSyndie
-    belt: ClothingBeltMilitaryWebbingMedFilled
+    back: ClothingBackpackDuffelInteQMedical
+    jumpsuit: ClothingUniformJumpsuitInteQMedical
+    eyes: ClothingEyesGogglessMedInteQ
+    shoes: ClothingShoesBootsMagInteQ
+    belt: ClothingBeltInteQWebbingMedFilled
   storage:
     back:
     - SyndiHypo
     - SawAdvanced
     - Cautery
     - CombatKnife
-    - WeaponPistolViper
+    - WeaponPistolInteQCommissar
     - PinpointerSyndicateNuclear
     - HandheldHealthAnalyzer
     - CombatMedipen
-    - DeathAcidifierImplanter
+    - DeathAcidifierImplanterInteQ
 
 - type: chameleonOutfit
   id: InteQNukeopsMedicOutfit
@@ -70,6 +71,8 @@
   startingGear: InteQOperativeMedicFull
   icon: "JobIconInteQ"
   equipment:
+    back: ClothingBackpackDuffelInteQMedical
+    jumpsuit: ClothingUniformJumpsuitInteQMedical
     head: ClothingHeadHelmetHardsuitSyndieMedic
     neck: ClothingNeckScarfStripedLightBlue
 

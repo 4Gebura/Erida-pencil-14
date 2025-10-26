@@ -1,8 +1,11 @@
 - type: currency
-  id: Telecrystal
+  id: TelecrystalRed
   displayName: store-currency-display-telecrystal
-  cash:
-    1: Telecrystal1
+  canWithdraw: true
+
+- type: currency
+  id: TelecrystalOrange
+  displayName: store-currency-display-telecrystal
   canWithdraw: true
 
 - type: currency
