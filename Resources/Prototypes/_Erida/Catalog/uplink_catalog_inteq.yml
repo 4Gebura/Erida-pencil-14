@@ -1290,11 +1290,8 @@
   name: uplink-inteq-uplink-implanter-name
   description: uplink-inteq-uplink-implanter-desc
   productEntity: UplinkImplanterInteQ
-  discountCategory: rareDiscounts
-  discountDownTo:
-    TelecrystalOrange: 6
   cost:
-    TelecrystalOrange: 8
+    TelecrystalOrange: 2
   categories:
   - UplinkImplants
 

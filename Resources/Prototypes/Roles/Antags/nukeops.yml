@@ -49,7 +49,7 @@
     gloves: ClothingHandsGlovesCombat
     outerClothing: ClothingOuterHardsuitInteQ
     shoes: ClothingShoesBootsCombatFilled
-    id: InteQIDCard
+    id: InteQVanguardIDCard
     pocket2: DoubleEmergencyOxygenTankFilled
     belt: ClothingBeltMilitaryWebbing
   storage:
