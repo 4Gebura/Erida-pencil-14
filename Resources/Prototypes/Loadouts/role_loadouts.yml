@@ -46,7 +46,6 @@
 - type: roleLoadout
   id: JobSecurityPilot # Corvax
   groups:
-  - SecurityServiceWeapon # Erida
   - Werx
   - Niz
   - Socks
@@ -60,6 +59,7 @@
   - SurvivalSecurity
   - Trinkets
   - GroupSpeciesBreathTool
+  - SecurityServiceWeapon # Erida
 
 # Silicons
 - type: roleLoadout
@@ -448,7 +448,6 @@
   - Werx-HeadOfSecurity #erida
   - Niz-HeadOfSecurity #erida
   - Socks-HeadOfSecurity #erida
-  - SecurityServiceWeapon # Erida
   - HeadofSecurityHead
   - HeadofSecurityNeck
   - HeadofSecurityJumpsuit
@@ -460,6 +459,7 @@
   - Trinkets
   - SecurityStar
   - GroupSpeciesBreathToolSecurity
+  - SecurityServiceWeapon # Erida
 
 - type: roleLoadout
   id: JobWarden
@@ -478,6 +478,7 @@
   - Trinkets
   - SecurityStar
   - GroupSpeciesBreathToolSecurity
+  - SecurityServiceWeapon # Erida
 
 - type: roleLoadout
   id: JobSecurityOfficer
@@ -485,7 +486,6 @@
   - Werx-SecurityOfficer #erida
   - Niz-SecurityOfficer #erida
   - Socks-SecurityOfficer #erida
-  - SecurityServiceWeapon # Erida
   - SecurityHead
   - SecurityJumpsuit
   - SecurityBackpack
@@ -497,6 +497,7 @@
   - Trinkets
   - SecurityStar
   - GroupSpeciesBreathToolSecurity
+  - SecurityServiceWeapon # Erida
 
 - type: roleLoadout
   id: JobDetective
@@ -504,7 +505,6 @@
   - Werx-Detective #erida
   - Niz-Detective #erida
   - Socks-Detective #erida
-  - SecurityServiceWeapon # Erida
   - GroupTankHarness
   - DetectiveHead
   - DetectiveNeck
@@ -523,12 +523,12 @@
   - Werx-Cadet #erida
   - Niz-Cadet #erida
   - Socks-Cadet #erida
-  - SecurityServiceWeapon # Erida
   - SecurityCadetJumpsuit
   - SecurityBackpack
   - SurvivalSecurity
   - Trinkets
   - GroupSpeciesBreathToolSecurity
+  - SecurityServiceWeapon # Erida
 
 # Medical
 - type: roleLoadout

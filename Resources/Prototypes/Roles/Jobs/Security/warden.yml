@@ -36,7 +36,6 @@
   storage:
     back:
     - Flash
-    - MagazinePistol
 
 - type: chameleonOutfit
   id: WardenChameleonOutfit

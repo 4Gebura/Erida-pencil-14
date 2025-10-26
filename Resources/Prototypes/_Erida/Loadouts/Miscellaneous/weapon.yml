@@ -1,18 +1,5 @@
 # Weapon
 - type: loadout
-  id: WeaponPistolN1984
-  effects:
-  - !type:JobRequirementLoadoutEffect
-    requirement:
-      !type:RoleTimeRequirement
-      role: JobSecurityOfficer
-      time: 21600 # 6hr
-  storage:
-    back:
-    - WeaponPistolN1984
-  groupBy: "weapon"
-
-- type: loadout
   id: WeaponPistolMk58
   storage:
     back:
