@@ -43,7 +43,7 @@
     <GuideEntityEmbed Entity="Implanter" Caption="Anatomy"/>
     <GuideEntityEmbed Entity="C4" Caption="Breacher"/>
     <GuideEntityEmbed Entity="ChameleonProjector" Caption="Chameleon"/>
-    <GuideEntityEmbed Entity="BaseUplinkRadioInteQ" Caption="Communicator"/>
+    <GuideEntityEmbed Entity="BaseInteQUplinkRadio" Caption="Communicator"/>
   </Box>
   <Box>
     <GuideEntityEmbed Entity="NitrousOxideTank" Caption="Sleeper"/>
