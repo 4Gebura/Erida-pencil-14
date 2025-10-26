@@ -24,6 +24,10 @@
       time: 14400
     - !type:OverallPlaytimeRequirement
       time: 86400
+    - !type:TraitsRequirement
+      traits:
+      - SyndicateEmployee
+      inverted: true
   special:
     - !type:AddImplantSpecial
       implants: [ MindShieldImplant ]
