@@ -1281,7 +1281,7 @@
   productEntity: ChameleonControllerImplanterInteQ
   discountCategory: rareDiscounts
   cost:
-    TelecrystalOrange: 4
+    TelecrystalOrange: 2
   categories:
   - UplinkImplants
 
