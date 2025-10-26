@@ -1171,7 +1171,7 @@ entities:
       parent: 145
     - type: Physics
       canCollide: False
-- proto: InteQIDCard
+- proto: InteQVanguardIDCard
   entities:
   - uid: 95
     components:

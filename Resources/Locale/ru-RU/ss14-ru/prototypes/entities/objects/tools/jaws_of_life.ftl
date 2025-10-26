@@ -1,7 +1,7 @@
 ent-JawsOfLife = челюсти жизни
     .desc = Набор челюстей жизни, скомпонованных при помощи магии науки.
 # Corvax-HiddenDesc-Start
-ent-SyndicateJawsOfLife = челюсти жизни InteQ
+ent-SyndicateJawsOfLife = челюсти жизни Синдикаита
     .desc = Используется для проникновения на станцию или в её отделы.
 
 # Corvax-HiddenDesc-End

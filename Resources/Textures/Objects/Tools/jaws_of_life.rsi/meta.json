@@ -20,6 +20,12 @@
       "name": "syn_jaws_pry"
     },
     {
+      "name": "inteq_jaws_cutter"
+    },
+    {
+      "name": "inteq_jaws_pry"
+    },
+    {
       "name": "inhand-left",
       "directions": 4
     },
@@ -37,6 +43,14 @@
     },
     {
       "name": "equipped-BELT",
+      "directions": 4
+    },
+        {
+      "name": "inteq_inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "inteq_inhand-right",
       "directions": 4
     }
   ]

@@ -208,7 +208,7 @@
     color: "#c94242"
   - type: Computer
     board: SyndicateShuttleConsoleCircuitboard
-  
+
 - type: entity
   parent: BaseComputerShuttle
   id: ComputerShuttleInteQ
@@ -730,16 +730,16 @@
     - map: ["computerLayerKeyboard"]
       state: generic_keyboard
     - map: ["computerLayerScreen"]
-      state: comm_inteq
+      state: comm_syndie
     - map: ["computerLayerKeys"]
-      state: inteq_key
+      state: syndie_key
     - map: [ "enum.WiresVisualLayers.MaintenancePanel" ]
       state: generic_panel_open
   - type: AccessReader
     access: [[ "NuclearOperative" ]]
   - type: CommunicationsConsole
-    title: comms-console-announcement-title-inteq
-    color: "#f18016"
+    title: comms-console-announcement-title-nukie
+    color: "#ff0000"
     canShuttle: false
     global: true #announce to everyone they're about to fuck shit up
     announceSentBy: false # The title already says who they are.

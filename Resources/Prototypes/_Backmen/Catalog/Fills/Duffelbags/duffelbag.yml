@@ -6,8 +6,23 @@
   components:
   - type: StorageFill
     contents:
+      - id: ClothingEyesGogglessInteQ
       - id: ClothingOuterHardsuitInteQElite
-      - id: ClothingMaskGasSyndicate
+      - id: ClothingMaskInteQInfiltrator
+      - id: ClothingHandsGlovesCombat
+      - id: DoubleEmergencyOxygenTankFilled
+      - id: DoubleEmergencyNitrogenTankFilled
+
+- type: entity
+  parent: ClothingBackpackDuffelInteQ
+  id: ClothingBackpackDuffelInteQSyndicateHardsuit
+  name: InteQHardsuit
+  description: "duffel with a standart version of inteq hardsuit"
+  components:
+  - type: StorageFill
+    contents:
+      - id: ClothingOuterHardsuitSyndicateInteQ
+      - id: ClothingMaskInteQInfiltrator
       - id: ClothingHandsGlovesCombat
       - id: DoubleEmergencyOxygenTankFilled
       - id: DoubleEmergencyNitrogenTankFilled
@@ -20,8 +35,9 @@
   components:
   - type: StorageFill
     contents:
+      - id: ClothingEyesGogglessInteQ
       - id: ClothingOuterHardsuitInteQ
-      - id: ClothingMaskGasSyndicate
+      - id: ClothingMaskInteQInfiltrator
       - id: ClothingHandsGlovesCombat
       - id: DoubleEmergencyOxygenTankFilled
       - id: DoubleEmergencyNitrogenTankFilled

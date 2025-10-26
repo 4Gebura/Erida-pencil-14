@@ -14027,7 +14027,7 @@ entities:
     - type: Transform
       pos: 14.341918,-16.877413
       parent: 2
-- proto: Telecrystal1
+- proto: TelecrystalRed1
   entities:
   - uid: 2253
     components:

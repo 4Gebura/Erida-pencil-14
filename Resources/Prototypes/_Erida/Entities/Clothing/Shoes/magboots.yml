@@ -1,0 +1,11 @@
+- type: entity
+  parent: [ClothingShoesBootsMagSyndie, BaseInteQContraband]
+  id: ClothingShoesBootsMagInteQ
+  name: orange magboots
+  description: Reverse-engineered magnetic boots that have a heavy magnetic pull and integrated thrusters. It can hold 0.75 L of gas.
+  components:
+  - type: Sprite
+    sprite: _Erida/Clothing/Shoes/magboots-inteq.rsi
+    state: icon
+  - type: Clothing
+    sprite: _Erida/Clothing/Shoes/magboots-inteq.rsi
