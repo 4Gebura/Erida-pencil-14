@@ -229,7 +229,7 @@
   id: TailSuccubus
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [Anthropomorph, Moth, Felinid]
+  speciesRestriction: []
   sprites:
     - sprite: Backmen/Mobs/Customization/tails32x32.rsi
       state: succubus
@@ -238,7 +238,7 @@
   id: TailTentacle
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [Anthropomorph, nHuman, Oni]
+  speciesRestriction: [Anthropomorph, Human, Oni]
   sprites:
     - sprite: Backmen/Mobs/Customization/tails32x32.rsi
       state: tentacle
