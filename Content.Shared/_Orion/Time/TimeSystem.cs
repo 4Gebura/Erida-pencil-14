@@ -34,7 +34,7 @@ public sealed class TimeSystem : EntitySystem
         var timeOfDay = TimeSpan.FromTicks(elapsed.Ticks % TimeSpan.TicksPerDay);
 
         var today = DateTime.UtcNow.Date;
-        var futureYear = today.Year + 500;
+        var futureYear = today.Year + 684;
         var day = Math.Min(today.Day, DateTime.DaysInMonth(futureYear, today.Month));
         var stationDate = new DateTime(futureYear, today.Month, day);
 
