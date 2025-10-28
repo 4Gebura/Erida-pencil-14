@@ -17,10 +17,9 @@ using Content.Shared.Verbs;
 using Robust.Shared.Utility;
 using Content.Shared.Hands.Components;
 using Content.Shared.Database;
-using Content.Server.GameTicking;
 using Content.Shared.UserInterface;
 using Content.Shared.Power;
-using Content.Server.Hands.Systems;
+using Content.Shared._Orion.Time;
 using Content.Shared.Hands.EntitySystems;
 
 namespace Content.Server.DeadSpace.Photocopier;
@@ -35,9 +34,9 @@ public sealed class PhotocopierSystem : EntitySystem
     [Dependency] private readonly UserInterfaceSystem _userInterface = default!;
     [Dependency] private readonly ISharedAdminLogManager _adminLogger = default!;
     [Dependency] private readonly IResourceManager _resourceManager = default!;
-    [Dependency] private readonly GameTicker _gameTicker = default!;
     [Dependency] private readonly StationSystem _station = default!;
     [Dependency] private readonly SharedHandsSystem _sharedHandsSystem = default!;
+    [Dependency] private readonly TimeSystem _timeSystem = default!; // Erida
 
     private const string PaperSlotId = "Paper";
 
@@ -354,8 +353,11 @@ public sealed class PhotocopierSystem : EntitySystem
         string text = _resourceManager.ContentFileReadText(formPrototype.Text).ReadToEnd();
 
         text = text.Replace("DOCUMENT NAME", Loc.GetString(formPrototype.Name));
-        text = text.Replace("{{HOUR.MINUTE.SECOND}}", _gameTicker.RoundDuration().ToString("hh\\:mm\\:ss"));
-        text = text.Replace("{{DAY.MONTH.YEAR}}", DateTime.UtcNow.AddHours(3).AddYears(684).ToString("dd.MM.yyyy"));
+        // Erida-Edit-Start | GameTicker/DateTime > TimeSystem
+        var (timeOfDay, stationDate) = _timeSystem.GetStationTime();
+        text = text.Replace("{{HOUR.MINUTE.SECOND}}", timeOfDay.ToString("hh\\:mm\\:ss"));
+        text = text.Replace("{{DAY.MONTH.YEAR}}", stationDate.ToString("dd.MM.yyyy"));
+        // Erida-Edit-End
 
         if (_station.GetOwningStation(uid) is { } station)
         {
