@@ -16,7 +16,7 @@
   - UplinkPointless
 
 - type: listing
-  id: UplinkCatEars
+  id: UplinkInteQCatEars
   name: uplink-cat-ears-name
   description: uplink-cat-ears-desc
   productEntity: ClothingHeadHatCatEars
@@ -26,7 +26,7 @@
   - UplinkPointless
 
 - type: listing
-  id: UplinkCatEars
+  id: UplinkInteQJugPlasma
   name: uplink-jug-plasma-name
   description: uplink-jug-plasma-desc
   productEntity: JugPlasma
