@@ -16,9 +16,19 @@
     - underwear
 
 - type: entity
+  parent: LPPClothingUnderwearBase
+  id: LPPBaseButtplug
+  name: base buttplug
+  abstract: true
+  components:
+  - type: Clothing
+    equipDelay: 2
+    unequipDelay: 5
+
+- type: entity
   name: big green buttplug
   id: LPPBigGreenButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -32,7 +42,7 @@
 - type: entity
   name: Medium green buttplug
   id: LPPMedGreenButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -46,7 +56,7 @@
 - type: entity
   name: Small green buttplug
   id: LPPSmallGreenButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -60,7 +70,7 @@
 - type: entity
   name: big metal buttplug
   id: LPPBigmetalButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -74,7 +84,7 @@
 - type: entity
   name: Medium metal buttplug
   id: LPPMedmetalButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -88,7 +98,7 @@
 - type: entity
   name: Small metal buttplug
   id: LPPSmallmetalButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -102,7 +112,7 @@
 - type: entity
   name: big pink buttplug
   id: LPPBigpinkButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -116,7 +126,7 @@
 - type: entity
   name: Medium pink buttplug
   id: LPPMedpinkButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -130,7 +140,7 @@
 - type: entity
   name: Small pink buttplug
   id: LPPSmallpinkButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -144,7 +154,7 @@
 - type: entity
   name: big tail buttplug
   id: LPPBigtailButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -153,7 +163,7 @@
 - type: entity
   name: Medium tail buttplug
   id: LPPMedtailButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -162,7 +172,7 @@
 - type: entity
   name: Small tail buttplug
   id: LPPSmalltailButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -171,7 +181,7 @@
 - type: entity
   name: big teal buttplug
   id: LPPBigtealButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -185,7 +195,7 @@
 - type: entity
   name: Medium teal buttplug
   id: LPPMedtealButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -199,7 +209,7 @@
 - type: entity
   name: Small teal buttplug
   id: LPPSmalltealButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -213,7 +223,7 @@
 - type: entity
   name: big yellow buttplug
   id: LPPBigyellowButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -227,7 +237,7 @@
 - type: entity
   name: Medium yellow buttplug
   id: LPPMedyellowButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite
@@ -241,7 +251,7 @@
 - type: entity
   name: Small yellow buttplug
   id: LPPSmallyellowButtplug
-  parent: LPPClothingUnderwearBase
+  parent: LPPBaseButtplug
   description: A hamburger bun. Round and convenient to hold.
   components:
   - type: Sprite

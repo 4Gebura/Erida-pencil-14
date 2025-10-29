@@ -23,13 +23,22 @@ public sealed partial class VibratorComponent : Component
     public int JitterProbablity = 40;
 
     [DataField, ViewVariables(VVAccess.ReadWrite)]
-    public int MoanProbablity = 30;
-
-    [DataField, ViewVariables(VVAccess.ReadWrite)]
     public bool IsTogglable = false;
 
     [DataField]
     public SoundSpecifier? VibrationSound;
 
     public EntityUid? Stream;
+
+    /// <summary>
+    /// Active vibration arousal amount.
+    /// </summary>
+    [DataField]
+    public float ActiveArousalAmount = 15f;
+
+    /// <summary>
+    /// Equip/Unequip arousal amount.
+    /// </summary>
+    [DataField]
+    public float ArousalAmount = 10f;
 }

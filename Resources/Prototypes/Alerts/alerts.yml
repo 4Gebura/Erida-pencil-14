@@ -27,6 +27,7 @@
     - alertType: Rooted
     - alertType: Pacified
     - alertType: Stealthy
+    - alertType: Arousal # Erida
 
 - type: entity
   id: AlertSpriteView
