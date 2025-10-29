@@ -16,9 +16,11 @@
   - type: Vibrator
     isTogglable: true
     jitterProbablity: 70
-    moanProbablity: 35
     vibrationSound: /Audio/_Erida/Effects/ERP/vibration_loop.ogg
   - type: ItemToggle
+  - type: Clothing
+    equipDelay: 2
+    unequipDelay: 5
 
 - type: entity
   name: magicwand

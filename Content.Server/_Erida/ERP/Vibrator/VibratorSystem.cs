@@ -1,9 +1,10 @@
-using System.Diagnostics;
 using Content.Server.Chat.Systems;
 using Content.Server.Jittering;
 using Content.Shared.Clothing;
 using Content.Shared.DeviceLinking.Events;
 using Content.Shared.Item.ItemToggle;
+using Content.Shared._Erida.Arousal.Components;
+using Content.Server._Erida.Arousal;
 using Content.Shared.Item.ItemToggle.Components;
 using Robust.Shared.Audio;
 using Robust.Shared.Audio.Systems;
@@ -15,12 +16,12 @@ namespace Content.Server._Erida.ERP.Vibrator;
 public sealed class VibratorSystem : EntitySystem
 {
     [Dependency] private readonly IGameTiming _gameTiming = default!;
-    [Dependency] private readonly ChatSystem _chatSystem = default!;
     [Dependency] private readonly IRobustRandom _random = default!;
     [Dependency] private readonly JitteringSystem _jitter = default!;
     [Dependency] private readonly EntityManager _entityManager = default!;
     [Dependency] private readonly ItemToggleSystem _itemToggleSystem = default!;
     [Dependency] private readonly SharedAudioSystem _audioSystem = default!;
+    [Dependency] private readonly ArousalSystem _arousalSystem = default!;
 
     public override void Initialize()
     {
@@ -34,11 +35,21 @@ public sealed class VibratorSystem : EntitySystem
     private void OnEquipped(EntityUid uid, VibratorComponent component, ref ClothingGotEquippedEvent args)
     {
         component.User = args.Wearer;
+
+        if (_entityManager.HasComponent<ArousalComponent>(component.User))
+        {
+            _arousalSystem.IncreaseArousal(component.User.Value, component.ArousalAmount);
+        }
     }
 
     private void OnUnequipped(EntityUid uid, VibratorComponent component, ref ClothingGotUnequippedEvent args)
     {
         component.User = null;
+
+        if (_entityManager.HasComponent<ArousalComponent>(component.User))
+        {
+            _arousalSystem.IncreaseArousal(component.User.Value, component.ArousalAmount);
+        }
     }
 
     private void OnItemToggled(EntityUid uid, VibratorComponent component, ItemToggledEvent args)
@@ -84,13 +95,16 @@ public sealed class VibratorSystem : EntitySystem
             if (curTime < component.NextEmoteTime || component.User is null || !component.IsActive && component.IsTogglable)
                 continue;
 
+            if (_entityManager.HasComponent<ArousalComponent>(component.User.Value))
+            {
+                _arousalSystem.IncreaseArousal(component.User.Value, component.ActiveArousalAmount);
+            }
+
             if (_random.Next(1, 101) <= component.JitterProbablity)
             {
                 _jitter.DoJitter(component.User.Value, TimeSpan.FromSeconds(1), true, 2, 2);
-
-                if (_random.Next(1, 101) <= component.MoanProbablity)
-                    _chatSystem.TryEmoteWithoutChat(component.User.Value, "Moan");
             }
+
             component.NextEmoteTime = curTime + component.Interval;
         }
     }

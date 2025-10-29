@@ -4,6 +4,9 @@
   parent: LPPClothingUnderwearBase
   components:
   - type: Vibrator
+  - type: Clothing
+    equipDelay: 2
+    unequipDelay: 5
 
 - type: entity
   name: dildo avian
