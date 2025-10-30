@@ -1,0 +1,54 @@
+
+# PRIMARY TASKS
+- type: roadmapTask
+  id: DonatorSystem
+  name: Донатная Система
+  description: Внедрение косметических бонусов за поддержку проекта!
+  category: Primary
+  order: 1
+
+- type: roadmapTask
+  id: Xenobiology
+  name: Уникальная Ксенобиология
+  description: Ксенобиология - наука о изучении аномальных существ.
+  category: Primary
+  order: 2
+
+- type: roadmapTask
+  id: AnomalyAmulet
+  name: Аномальные Амулеты
+  description: Ядро аномалии - мощная сила. Сила, которую вы наконец сможете заполучить Себе.
+  category: Primary
+  order: 3
+
+# LONG-RANGE TASKS
+
+- type: roadmapTask
+  id: AntagAnomaly
+  name: Антагонист - Гуманоидная Аномалия
+  description: Ксенобиология открыла нам чудеса аномальных существ. Но кто знает, что может творится у них в голове?
+  category: LongRange
+  order: 1
+
+- type: roadmapTask
+  id: SyndiePlus
+  name: Синдикат на Станции
+  description: Повышенная интеграция синдиката на станцию - новейшая униформа, их символика и многое другое!
+  category: LongRange
+  order: 2
+
+# IDEA TASKS
+
+- type: roadmapTask
+  id: Addiction
+  name: Наркотическая Зависимость
+  description: Употребив наркотики - вы захотите попробовать их вновь. Попробуете ли перебороть ломку?
+  category: Idea
+  order: 1
+
+- type: roadmapTask
+  id: Tolerance
+  name: Толерантность к Веществам
+  description: Если слишком часто употреблять вещество, организм становится менее восприимчив к нему.
+  category: Idea
+  order: 2

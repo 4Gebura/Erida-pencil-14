@@ -1,4 +1,5 @@
-﻿using Content.Client.Changelog;
+﻿using Content.Client._Erida.Roadmap;
+using Content.Client.Changelog;
 using Content.Client.UserInterface.Systems.EscapeMenu;
 using Content.Client.UserInterface.Systems.Guidebook;
 using Content.Shared.CCVar;
@@ -47,6 +48,10 @@ namespace Content.Client.Info
             var changelogButton = new ChangelogButton();
             changelogButton.OnPressed += args => UserInterfaceManager.GetUIController<ChangelogUIController>().ToggleWindow();
             buttons.AddChild(changelogButton);
+
+            var roadmapButton = new RoadmapButton();
+            roadmapButton.OnPressed += args => UserInterfaceManager.GetUIController<RoadmapUIController>().ToggleWindow();
+            buttons.AddChild(roadmapButton);
 
             void AddInfoButton(string loc, CVarDef<string> cVar)
             {
