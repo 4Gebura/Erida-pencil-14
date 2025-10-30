@@ -1319,3 +1319,57 @@
     proto: BulletDisablerSmg
     count: 3 #bit stronger than a disabler if you hit your shots you goober, still not a 2 hit stun though
     spread: 9
+
+- type: entity
+  name : Режим лечения тупых травм
+  id: HealingBruteBolt
+  parent: WatcherBolt
+  categories: [ HideSpawnMenu ]
+  components:
+    - type: Sprite
+      sprite: Objects/Weapons/Guns/Projectiles/projectiles_tg.rsi
+      layers:
+      - state: omnilaser_greyscale
+        shader: unshaded
+        color: red
+    - type: Projectile
+      impactEffect: BulletImpactEffectDisabler
+      damage:
+        groups:
+          Brute: -20
+
+- type: entity
+  name : Режим лечения ожогов
+  id: HealingBurnBolt
+  parent: WatcherBolt
+  categories: [ HideSpawnMenu ]
+  components:
+    - type: Sprite
+      sprite: Objects/Weapons/Guns/Projectiles/projectiles_tg.rsi
+      layers:
+      - state: omnilaser_greyscale
+        shader: unshaded
+        color: orange
+    - type: Projectile
+      impactEffect: BulletImpactEffectDisabler
+      damage:
+        groups:
+          Burn: -20
+
+- type: entity
+  name : Режим лечения токсинов
+  id: HealingToxinBolt
+  parent: WatcherBolt
+  categories: [ HideSpawnMenu ]
+  components:
+    - type: Sprite
+      sprite: Objects/Weapons/Guns/Projectiles/projectiles_tg.rsi
+      layers:
+      - state: omnilaser_greyscale
+        shader: unshaded
+        color: green
+    - type: Projectile
+      impactEffect: BulletImpactEffectDisabler
+      damage:
+        groups:
+          Toxin: -20
