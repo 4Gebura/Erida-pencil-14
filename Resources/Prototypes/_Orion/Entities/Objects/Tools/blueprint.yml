@@ -10,13 +10,10 @@
     - MagazineBoxPistolInteQ
     - MagazineBoxLightRifleInteQ
     - MagazineBoxShotgunInteQ
-    - ClothingEyesGogglessInteQ
     - PlasmaSword
     - PlasmaSwordAlt
-    - ExGrenade
     - WhiteholeGrenade
     - C4
-    - EmpGrenade
 
 - type: entity
   parent: BaseBlueprint

@@ -1076,7 +1076,7 @@
   description: uplink-inteq-blueprint-desc
   productEntity: BlueprintInteQ
   cost:
-    TelecrystalOrange: 5
+    TelecrystalOrange: 10
   categories:
   - UplinkDeception
 
