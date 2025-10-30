@@ -16,6 +16,26 @@
   - UplinkPointless
 
 - type: listing
+  id: UplinkInteQCatEars
+  name: uplink-cat-ears-name
+  description: uplink-cat-ears-desc
+  productEntity: ClothingHeadHatCatEars
+  cost:
+    TelecrystalOrange: 16
+  categories:
+  - UplinkPointless
+
+- type: listing
+  id: UplinkInteQJugPlasma
+  name: uplink-jug-plasma-name
+  description: uplink-jug-plasma-desc
+  productEntity: JugPlasma
+  cost:
+    TelecrystalOrange: 2
+  categories:
+  - UplinkPointless
+
+- type: listing
   id: UplinkInteQBarberScissors
   name: uplink-barber-scissors-name
   description: uplink-barber-scissors-desc
@@ -1047,6 +1067,16 @@
     TelecrystalOrange: 3
   cost:
     TelecrystalOrange: 6
+  categories:
+  - UplinkDeception
+
+- type: listing
+  id: UplinkInteQBlueprintInteQ
+  name: uplink-inteq-blueprint-desc
+  description: uplink-inteq-blueprint-desc
+  productEntity: BlueprintInteQ
+  cost:
+    TelecrystalOrange: 10
   categories:
   - UplinkDeception
 

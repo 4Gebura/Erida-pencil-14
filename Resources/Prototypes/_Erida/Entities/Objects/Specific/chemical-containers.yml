@@ -1,0 +1,13 @@
+- type: entity
+  parent: Jug
+  suffix: plasma
+  id: JugPlasma
+  components:
+  - type: Label
+    currentLabel: reagent-name-plasma
+  - type: SolutionContainerManager
+    solutions:
+      beaker:
+        reagents:
+        - ReagentId: Plasma
+          Quantity: 200
