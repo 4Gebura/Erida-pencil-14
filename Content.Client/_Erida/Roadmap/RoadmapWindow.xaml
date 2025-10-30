@@ -1,0 +1,38 @@
+﻿<ui:RoadmapWindow xmlns="https://spacestation14.io"
+                    xmlns:ui="clr-namespace:Content.Client._Erida.Roadmap"
+                    xmlns:gfx="clr-namespace:Robust.Client.Graphics;assembly=Robust.Client"
+                    Title="{Loc 'Roadmap-window-title'}"
+                    MinSize="1000 300"
+                    SetSize="1000 300">
+    <BoxContainer Orientation="Horizontal">
+        <BoxContainer Orientation="Vertical" HorizontalExpand="True" Margin="10 5 0 10">
+            <Label Text="{Loc 'Roadmap-primary-category'}" HorizontalExpand="True" HorizontalAlignment="Center" Margin="0 0 0 2" StyleClasses="LabelHeadingBigger"/>
+            <PanelContainer StyleClasses="LowDivider" VerticalExpand="True" HorizontalExpand="True">
+                <PanelContainer.PanelOverride>
+                    <gfx:StyleBoxFlat BackgroundColor="#2b2b3b" />
+                </PanelContainer.PanelOverride>
+                <BoxContainer Orientation="Vertical" Name="Primary"/>
+            </PanelContainer>
+        </BoxContainer>
+
+        <BoxContainer Orientation="Vertical" HorizontalExpand="True" Margin="10 5 10 10">
+            <Label Text="{Loc 'Roadmap-longrange-category'}" HorizontalExpand="True" HorizontalAlignment="Center" Margin="0 0 0 2" StyleClasses="LabelHeadingBigger"/>
+            <PanelContainer StyleClasses="LowDivider" VerticalExpand="True" HorizontalExpand="True">
+                <PanelContainer.PanelOverride>
+                    <gfx:StyleBoxFlat BackgroundColor="#2b2b3b" />
+                </PanelContainer.PanelOverride>
+                <BoxContainer Orientation="Vertical" Name="LongRange"/>
+            </PanelContainer>
+        </BoxContainer>
+
+        <BoxContainer Orientation="Vertical" HorizontalExpand="True" Margin="0 5 10 10">
+            <Label Text="{Loc 'Roadmap-idea-category'}" HorizontalExpand="True" HorizontalAlignment="Center" Margin="0 0 0 2" StyleClasses="LabelHeadingBigger"/>
+            <PanelContainer StyleClasses="LowDivider" VerticalExpand="True" HorizontalExpand="True">
+                <PanelContainer.PanelOverride>
+                    <gfx:StyleBoxFlat BackgroundColor="#2b2b3b" />
+                </PanelContainer.PanelOverride>
+                <BoxContainer Orientation="Vertical" Name="Idea"/>
+            </PanelContainer>
+        </BoxContainer>
+    </BoxContainer>
+</ui:RoadmapWindow>
