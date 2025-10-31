@@ -1333,7 +1333,7 @@
         shader: unshaded
         color: red
     - type: Projectile
-      impactEffect: BulletImpactEffectDisabler
+      impactEffect: BulletImpactEffectRed
       damage:
         groups:
           Brute: -20
@@ -1351,7 +1351,7 @@
         shader: unshaded
         color: orange
     - type: Projectile
-      impactEffect: BulletImpactEffectDisabler
+      impactEffect: BulletImpactEffectOrange
       damage:
         groups:
           Burn: -20
@@ -1369,7 +1369,7 @@
         shader: unshaded
         color: green
     - type: Projectile
-      impactEffect: BulletImpactEffectDisabler
+      impactEffect: BulletImpactEffectGreen
       damage:
         groups:
           Toxin: -20
